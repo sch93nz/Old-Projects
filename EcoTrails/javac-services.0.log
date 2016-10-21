@@ -1,0 +1,708 @@
+INFO	?	main	2016-10-21T03:06:14.631Z	org.javacs.Main#connectToNode	Connected to parent using socket on port 55282
+INFO	?	pool-1-thread-1	2016-10-21T03:06:14.813Z	org.javacs.JavaLanguageServer#doLint	Lint g:\Data Files\EcoTrails\src\user\Animal.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:06:14.859Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\user\Animal.java
+org.javacs.ShowMessageException: Can't find configuration file for g:\Data Files\EcoTrails\src\user\Animal.java
+	at org.javacs.ShowMessageException.create(ShowMessageException.java:29)
+	at org.javacs.ShowMessageException.warning(ShowMessageException.java:20)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:185)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:217)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:213)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\user\Animal.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doLint(JavaLanguageServer.java:292)
+	at org.javacs.JavaLanguageServer.access$400(JavaLanguageServer.java:25)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:182)
+	... 12 more
+
+INFO	?	pool-1-thread-1	2016-10-21T03:06:15.491Z	org.javacs.JavaLanguageServer#doLint	Lint g:\Data Files\EcoTrails\src\user\User.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:06:15.491Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\user\User.java
+org.javacs.ShowMessageException: Can't find configuration file for g:\Data Files\EcoTrails\src\user\User.java
+	at org.javacs.ShowMessageException.create(ShowMessageException.java:29)
+	at org.javacs.ShowMessageException.warning(ShowMessageException.java:20)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:185)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:217)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:213)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\user\User.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doLint(JavaLanguageServer.java:292)
+	at org.javacs.JavaLanguageServer.access$400(JavaLanguageServer.java:25)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:182)
+	... 12 more
+
+SEVERE	?	pool-1-thread-1	2016-10-21T03:06:15.494Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\user\Animal.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\user\Animal.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer$1.didClose(JavaLanguageServer.java:216)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:221)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:213)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:06:15.495Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\user\Animal.java
+INFO	?	pool-1-thread-1	2016-10-21T03:06:59.649Z	org.javacs.JavaLanguageServer#doLint	Lint g:\Data Files\EcoTrails\src\transport\Bicycle.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:06:59.650Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Bicycle.java
+org.javacs.ShowMessageException: Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Bicycle.java
+	at org.javacs.ShowMessageException.create(ShowMessageException.java:29)
+	at org.javacs.ShowMessageException.warning(ShowMessageException.java:20)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:185)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:217)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:213)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Bicycle.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doLint(JavaLanguageServer.java:292)
+	at org.javacs.JavaLanguageServer.access$400(JavaLanguageServer.java:25)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:182)
+	... 12 more
+
+SEVERE	?	pool-1-thread-1	2016-10-21T03:06:59.653Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\user\User.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\user\User.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer$1.didClose(JavaLanguageServer.java:216)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:221)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:213)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:06:59.653Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\user\User.java
+INFO	?	pool-1-thread-1	2016-10-21T03:07:04.400Z	org.javacs.JavaLanguageServer#doLint	Lint g:\Data Files\EcoTrails\src\transport\Car.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:07:04.400Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Car.java
+org.javacs.ShowMessageException: Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Car.java
+	at org.javacs.ShowMessageException.create(ShowMessageException.java:29)
+	at org.javacs.ShowMessageException.warning(ShowMessageException.java:20)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:185)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:217)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:213)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Car.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doLint(JavaLanguageServer.java:292)
+	at org.javacs.JavaLanguageServer.access$400(JavaLanguageServer.java:25)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:182)
+	... 12 more
+
+SEVERE	?	pool-1-thread-1	2016-10-21T03:07:04.402Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Bicycle.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Bicycle.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer$1.didClose(JavaLanguageServer.java:216)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:221)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:213)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:07:04.403Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Bicycle.java
+INFO	?	pool-1-thread-1	2016-10-21T03:07:27.029Z	org.javacs.JavaLanguageServer#doLint	Lint g:\Data Files\EcoTrails\src\transport\Foot.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:07:27.030Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Foot.java
+org.javacs.ShowMessageException: Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Foot.java
+	at org.javacs.ShowMessageException.create(ShowMessageException.java:29)
+	at org.javacs.ShowMessageException.warning(ShowMessageException.java:20)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:185)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:217)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:213)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Foot.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doLint(JavaLanguageServer.java:292)
+	at org.javacs.JavaLanguageServer.access$400(JavaLanguageServer.java:25)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:182)
+	... 12 more
+
+SEVERE	?	pool-1-thread-1	2016-10-21T03:07:27.032Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Car.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Car.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer$1.didClose(JavaLanguageServer.java:216)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:221)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:213)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:07:27.032Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Car.java
+INFO	?	pool-1-thread-1	2016-10-21T03:07:30.942Z	org.javacs.JavaLanguageServer#doLint	Lint g:\Data Files\EcoTrails\src\transport\package-info.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:07:30.943Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\transport\package-info.java
+org.javacs.ShowMessageException: Can't find configuration file for g:\Data Files\EcoTrails\src\transport\package-info.java
+	at org.javacs.ShowMessageException.create(ShowMessageException.java:29)
+	at org.javacs.ShowMessageException.warning(ShowMessageException.java:20)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:185)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:217)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:213)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\transport\package-info.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doLint(JavaLanguageServer.java:292)
+	at org.javacs.JavaLanguageServer.access$400(JavaLanguageServer.java:25)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:182)
+	... 12 more
+
+INFO	?	pool-1-thread-1	2016-10-21T03:07:41.621Z	org.javacs.JavaLanguageServer#doLint	Lint g:\Data Files\EcoTrails\src\transport\Scooter.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:07:41.621Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Scooter.java
+org.javacs.ShowMessageException: Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Scooter.java
+	at org.javacs.ShowMessageException.create(ShowMessageException.java:29)
+	at org.javacs.ShowMessageException.warning(ShowMessageException.java:20)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:185)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:217)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:213)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Scooter.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doLint(JavaLanguageServer.java:292)
+	at org.javacs.JavaLanguageServer.access$400(JavaLanguageServer.java:25)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:182)
+	... 12 more
+
+INFO	?	pool-1-thread-1	2016-10-21T03:07:48.192Z	org.javacs.JavaLanguageServer#doLint	Lint g:\Data Files\EcoTrails\src\transport\Transport.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:07:48.192Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Transport.java
+org.javacs.ShowMessageException: Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Transport.java
+	at org.javacs.ShowMessageException.create(ShowMessageException.java:29)
+	at org.javacs.ShowMessageException.warning(ShowMessageException.java:20)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:185)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:217)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:213)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\transport\Transport.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doLint(JavaLanguageServer.java:292)
+	at org.javacs.JavaLanguageServer.access$400(JavaLanguageServer.java:25)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:182)
+	... 12 more
+
+INFO	?	pool-1-thread-1	2016-10-21T03:08:46.952Z	org.javacs.JavaLanguageServer#doLint	Lint g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:08:46.953Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+org.javacs.ShowMessageException: Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+	at org.javacs.ShowMessageException.create(ShowMessageException.java:29)
+	at org.javacs.ShowMessageException.warning(ShowMessageException.java:20)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:185)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:217)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:213)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doLint(JavaLanguageServer.java:292)
+	at org.javacs.JavaLanguageServer.access$400(JavaLanguageServer.java:25)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:182)
+	... 12 more
+
+SEVERE	?	pool-1-thread-1	2016-10-21T03:08:47.974Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:08:47.975Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:08:49.435Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:08:49.436Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:08:50.037Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:08:50.037Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:08:52.005Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:08:52.005Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:08:53.913Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:08:53.914Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:08:54.257Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:08:54.257Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:08:54.859Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:08:54.859Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:09:03.468Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:09:03.469Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\smartStuff\Classifier.java
+INFO	?	pool-1-thread-1	2016-10-21T03:09:39.901Z	org.javacs.JavaLanguageServer#doLint	Lint g:\Data Files\EcoTrails\src\location\Location.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:09:39.902Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+org.javacs.ShowMessageException: Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+	at org.javacs.ShowMessageException.create(ShowMessageException.java:29)
+	at org.javacs.ShowMessageException.warning(ShowMessageException.java:20)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:185)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:217)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:213)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doLint(JavaLanguageServer.java:292)
+	at org.javacs.JavaLanguageServer.access$400(JavaLanguageServer.java:25)
+	at org.javacs.JavaLanguageServer$1.didOpen(JavaLanguageServer.java:182)
+	... 12 more
+
+SEVERE	?	pool-1-thread-1	2016-10-21T03:09:47.643Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:09:47.643Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:09:53.888Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:09:53.888Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:09:56.357Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:09:56.358Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:09:58.903Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:09:58.903Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:09:59.213Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:09:59.213Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:09:59.549Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:09:59.550Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:09:59.790Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:09:59.790Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:10:00.189Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:10:00.189Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+SEVERE	?	pool-1-thread-1	2016-10-21T03:10:01.159Z	org.javacs.Main#lambda$run$0	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+org.javacs.NoJavaConfigException: Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java
+	at org.javacs.JavaLanguageServer.lambda$findCompiler$21(JavaLanguageServer.java:444)
+	at java.util.Optional.orElseThrow(Unknown Source)
+	at org.javacs.JavaLanguageServer.findCompiler(JavaLanguageServer.java:444)
+	at org.javacs.JavaLanguageServer.doHover(JavaLanguageServer.java:776)
+	at org.javacs.JavaLanguageServer$1.hover(JavaLanguageServer.java:107)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter._doAccept(LanguageServerToJsonAdapter.xtend:140)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.doAccept(LanguageServerToJsonAdapter.xtend:127)
+	at io.typefox.lsapi.services.json.LanguageServerToJsonAdapter.accept(LanguageServerToJsonAdapter.xtend:124)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol.handleMessage(LanguageServerProtocol.xtend:79)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.handleMessage(LanguageServerProtocol.xtend:284)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:220)
+	at io.typefox.lsapi.services.json.LanguageServerProtocol$IOHandler.run(LanguageServerProtocol.xtend:180)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+WARNING	?	pool-1-thread-1	2016-10-21T03:10:01.160Z	org.javacs.JavaLanguageServer#onError	Can't find configuration file for g:\Data Files\EcoTrails\src\location\Location.java

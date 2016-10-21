@@ -1,0 +1,3425 @@
+<document>
+   <record>
+      <stop_id>100</stop_id>
+      <check>100</check>
+      <stop_name>DTA Garage</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16447</stop_id>
+      <check>16447</check>
+      <stop_name>Vinland St at 8301</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>16463</stop_id>
+      <check>16463</check>
+      <stop_name>Superior St and 15 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.12</stop_lon>
+   </record>
+   <record>
+      <stop_id>16467</stop_id>
+      <check>16467</check>
+      <stop_name>Superior St and 18 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.12</stop_lon>
+   </record>
+   <record>
+      <stop_id>16475</stop_id>
+      <check>16475</check>
+      <stop_name>Superior St and 19 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.12</stop_lon>
+   </record>
+   <record>
+      <stop_id>16476</stop_id>
+      <check>16476</check>
+      <stop_name>05 St and 01 Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>16484</stop_id>
+      <check>16484</check>
+      <stop_name>Superior St and 20 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.12</stop_lon>
+   </record>
+   <record>
+      <stop_id>16505</stop_id>
+      <check>16505</check>
+      <stop_name>21 AW and 01 St</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16506</stop_id>
+      <check>16506</check>
+      <stop_name>21 AW and 02 St</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16507</stop_id>
+      <check>16507</check>
+      <stop_name>03 St and 21 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16508</stop_id>
+      <check>16508</check>
+      <stop_name>21 AW and Superior St</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.12</stop_lon>
+   </record>
+   <record>
+      <stop_id>16511</stop_id>
+      <check>16511</check>
+      <stop_name>03 St and 22 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16512</stop_id>
+      <check>16512</check>
+      <stop_name>Superior St and 22 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16514</stop_id>
+      <check>16514</check>
+      <stop_name>03 St and 23 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16515</stop_id>
+      <check>16515</check>
+      <stop_name>Superior St and 23 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16526</stop_id>
+      <check>16526</check>
+      <stop_name>03 St and 24 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16534</stop_id>
+      <check>16534</check>
+      <stop_name>Superior St and 24 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16536</stop_id>
+      <check>16536</check>
+      <stop_name>03 St and 25 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16537</stop_id>
+      <check>16537</check>
+      <stop_name>Superior St and 25 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16539</stop_id>
+      <check>16539</check>
+      <stop_name>03 St and 26 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16540</stop_id>
+      <check>16540</check>
+      <stop_name>Superior St and 26 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16542</stop_id>
+      <check>16542</check>
+      <stop_name>03 St and 27 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>16543</stop_id>
+      <check>16543</check>
+      <stop_name>Superior St and 27 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16545</stop_id>
+      <check>16545</check>
+      <stop_name>03 St and 28 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>16546</stop_id>
+      <check>16546</check>
+      <stop_name>Superior St and 28 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16549</stop_id>
+      <check>16549</check>
+      <stop_name>03 St and 29 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>16550</stop_id>
+      <check>16550</check>
+      <stop_name>Superior St and 29 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>16551</stop_id>
+      <check>16551</check>
+      <stop_name>05 St and 02  Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>16557</stop_id>
+      <check>16557</check>
+      <stop_name>Holiday Transit Center -Building</stop_name>
+      <stop_lat>46.78</stop_lat>
+      <stop_lon>-92.1</stop_lon>
+   </record>
+   <record>
+      <stop_id>16589</stop_id>
+      <check>16589</check>
+      <stop_name>Superior St and 34 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>16591</stop_id>
+      <check>16591</check>
+      <stop_name>Grand Ave and 35 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>16593</stop_id>
+      <check>16593</check>
+      <stop_name>Grand Ave and 36 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>16594</stop_id>
+      <check>16594</check>
+      <stop_name>Grand Ave and 37 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>16596</stop_id>
+      <check>16596</check>
+      <stop_name>Grand Ave and 38 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>16599</stop_id>
+      <check>16599</check>
+      <stop_name>Grand Ave and 39 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>16602</stop_id>
+      <check>16602</check>
+      <stop_name>03 Ave and 05 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>16619</stop_id>
+      <check>16619</check>
+      <stop_name>07 Ave and 03 St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>16625</stop_id>
+      <check>16625</check>
+      <stop_name>40 AW and 01 St (Louis Kemp</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>16626</stop_id>
+      <check>16626</check>
+      <stop_name>40 AW and 04 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>16627</stop_id>
+      <check>16627</check>
+      <stop_name>40 AW and 05 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>16628</stop_id>
+      <check>16628</check>
+      <stop_name>40 AW and 06 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>16629</stop_id>
+      <check>16629</check>
+      <stop_name>40 AW and 07 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16630</stop_id>
+      <check>16630</check>
+      <stop_name>08 St and 40 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16631</stop_id>
+      <check>16631</check>
+      <stop_name>40 AW and Grand Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>16635</stop_id>
+      <check>16635</check>
+      <stop_name>08 St and 41 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16636</stop_id>
+      <check>16636</check>
+      <stop_name>Grand Ave and 41 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>16638</stop_id>
+      <check>16638</check>
+      <stop_name>08 St and 42 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16639</stop_id>
+      <check>16639</check>
+      <stop_name>Grand Ave and 42 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>16641</stop_id>
+      <check>16641</check>
+      <stop_name>08 St and 43 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16642</stop_id>
+      <check>16642</check>
+      <stop_name>Grand Ave and 43 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16644</stop_id>
+      <check>16644</check>
+      <stop_name>08 St and 44 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16645</stop_id>
+      <check>16645</check>
+      <stop_name>Grand Ave and 44 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16660</stop_id>
+      <check>16660</check>
+      <stop_name>Grand Ave and 45 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16664</stop_id>
+      <check>16664</check>
+      <stop_name>46 AW and 04 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16665</stop_id>
+      <check>16665</check>
+      <stop_name>46 AW and 05 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16666</stop_id>
+      <check>16666</check>
+      <stop_name>46 AW and 06 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16667</stop_id>
+      <check>16667</check>
+      <stop_name>46 AW and 07 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16668</stop_id>
+      <check>16668</check>
+      <stop_name>08 St and 46 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16669</stop_id>
+      <check>16669</check>
+      <stop_name>46 AW and Grand Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16671</stop_id>
+      <check>16671</check>
+      <stop_name>Grand Ave and 47 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16673</stop_id>
+      <check>16673</check>
+      <stop_name>Grand Ave and 48 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16683</stop_id>
+      <check>16683</check>
+      <stop_name>Superior St and 04 AW</stop_name>
+      <stop_lat>46.78</stop_lat>
+      <stop_lon>-92.1</stop_lon>
+   </record>
+   <record>
+      <stop_id>16716</stop_id>
+      <check>16716</check>
+      <stop_name>04 St and 07 Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>16732</stop_id>
+      <check>16732</check>
+      <stop_name>Ramsey St and 51 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16736</stop_id>
+      <check>16736</check>
+      <stop_name>Ramsey St and 52 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16738</stop_id>
+      <check>16738</check>
+      <stop_name>08 St and 53 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16739</stop_id>
+      <check>16739</check>
+      <stop_name>Ramsey St and 53 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>16746</stop_id>
+      <check>16746</check>
+      <stop_name>Ramsey St and 54 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16748</stop_id>
+      <check>16748</check>
+      <stop_name>Grand Ave and 56 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16749</stop_id>
+      <check>16749</check>
+      <stop_name>Raleigh St and 56 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16751</stop_id>
+      <check>16751</check>
+      <stop_name>57 AW and 08 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16753</stop_id>
+      <check>16753</check>
+      <stop_name>57 AW and Elinor St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16754</stop_id>
+      <check>16754</check>
+      <stop_name>Grand Ave and 57 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16755</stop_id>
+      <check>16755</check>
+      <stop_name>Highland St and 57 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16756</stop_id>
+      <check>16756</check>
+      <stop_name>57 AW and Huntington St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16757</stop_id>
+      <check>16757</check>
+      <stop_name>57 AW and Kinnear West Pl</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16758</stop_id>
+      <check>16758</check>
+      <stop_name>57 AW and Olney St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16759</stop_id>
+      <check>16759</check>
+      <stop_name>Raleigh St and 57 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16764</stop_id>
+      <check>16764</check>
+      <stop_name>Grand Ave and 58 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16765</stop_id>
+      <check>16765</check>
+      <stop_name>Highland St and 58 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16766</stop_id>
+      <check>16766</check>
+      <stop_name>Raleigh St and 58 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16768</stop_id>
+      <check>16768</check>
+      <stop_name>59 AW and Cody St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16769</stop_id>
+      <check>16769</check>
+      <stop_name>Grand Ave and 59 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16770</stop_id>
+      <check>16770</check>
+      <stop_name>59 AW and Greene St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16771</stop_id>
+      <check>16771</check>
+      <stop_name>Highland St and 59 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16772</stop_id>
+      <check>16772</check>
+      <stop_name>Raleigh St and 59 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16775</stop_id>
+      <check>16775</check>
+      <stop_name>02 St and 05 Ave</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>16778</stop_id>
+      <check>16778</check>
+      <stop_name>Superior St and 05 AW</stop_name>
+      <stop_lat>46.78</stop_lat>
+      <stop_lon>-92.1</stop_lon>
+   </record>
+   <record>
+      <stop_id>16781</stop_id>
+      <check>16781</check>
+      <stop_name>Piedmont Ave at 13 St - ne stop</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>16819</stop_id>
+      <check>16819</check>
+      <stop_name>Raleigh St and 60 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16822</stop_id>
+      <check>16822</check>
+      <stop_name>Raleigh St and 61 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>16825</stop_id>
+      <check>16825</check>
+      <stop_name>Highland St and 62 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>16826</stop_id>
+      <check>16826</check>
+      <stop_name>Raleigh St and 62 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>16828</stop_id>
+      <check>16828</check>
+      <stop_name>Grand Ave and 63 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>16829</stop_id>
+      <check>16829</check>
+      <stop_name>Highland St and 63 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>16835</stop_id>
+      <check>16835</check>
+      <stop_name>Grand Ave and 67 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>16836</stop_id>
+      <check>16836</check>
+      <stop_name>Grand Ave and Redruth St</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>16838</stop_id>
+      <check>16838</check>
+      <stop_name>Grand Ave and 69 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>16839</stop_id>
+      <check>16839</check>
+      <stop_name>02 St and 06 Ave</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>16856</stop_id>
+      <check>16856</check>
+      <stop_name>Haines Rd and Arrowhead Rd</stop_name>
+      <stop_lat>46.82</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>16857</stop_id>
+      <check>16857</check>
+      <stop_name>Arrowhead Road at Airbase</stop_name>
+      <stop_lat>46.82</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>16860</stop_id>
+      <check>16860</check>
+      <stop_name>Grand Ave and 75 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>16861</stop_id>
+      <check>16861</check>
+      <stop_name>Vinland St and 75 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>16862</stop_id>
+      <check>16862</check>
+      <stop_name>Grand Ave and 76 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>16863</stop_id>
+      <check>16863</check>
+      <stop_name>Grand Ave and 77 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>16864</stop_id>
+      <check>16864</check>
+      <stop_name>Vinland St and 77 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>16865</stop_id>
+      <check>16865</check>
+      <stop_name>Grand Ave and 78 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>16866</stop_id>
+      <check>16866</check>
+      <stop_name>Vinland St and 78 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>16868</stop_id>
+      <check>16868</check>
+      <stop_name>07 Ave and 02 St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>16886</stop_id>
+      <check>16886</check>
+      <stop_name>Grand Ave and 80 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>16887</stop_id>
+      <check>16887</check>
+      <stop_name>Vinland St and 81 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>16889</stop_id>
+      <check>16889</check>
+      <stop_name>Grand Ave and 82 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>16890</stop_id>
+      <check>16890</check>
+      <stop_name>Grand Ave and 83 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>16891</stop_id>
+      <check>16891</check>
+      <stop_name>Grand Ave and 84 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>16892</stop_id>
+      <check>16892</check>
+      <stop_name>Grand Ave and 85 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>16895</stop_id>
+      <check>16895</check>
+      <stop_name>88 AW at 742</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>16898</stop_id>
+      <check>16898</check>
+      <stop_name>88 AW and Arbor St</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>16900</stop_id>
+      <check>16900</check>
+      <stop_name>Idaho St and 89 AW</stop_name>
+      <stop_lat>46.68</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>16901</stop_id>
+      <check>16901</check>
+      <stop_name>04 St and 08 Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>16914</stop_id>
+      <check>16914</check>
+      <stop_name>Idaho St and 90 AW</stop_name>
+      <stop_lat>46.68</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>16915</stop_id>
+      <check>16915</check>
+      <stop_name>Idaho St and 91 AW</stop_name>
+      <stop_lat>46.68</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>16916</stop_id>
+      <check>16916</check>
+      <stop_name>Idaho St and 92 AW</stop_name>
+      <stop_lat>46.68</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>16989</stop_id>
+      <check>16989</check>
+      <stop_name>Grand Ave and Beaudry St</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>17013</stop_id>
+      <check>17013</check>
+      <stop_name>Grand Ave and Bessemer St</stop_name>
+      <stop_lat>46.71</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>17014</stop_id>
+      <check>17014</check>
+      <stop_name>88 AW and Beverly St</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>17015</stop_id>
+      <check>17015</check>
+      <stop_name>Commonwealth and Bowser St</stop_name>
+      <stop_lat>46.66</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17017</stop_id>
+      <check>17017</check>
+      <stop_name>Arrowhead Road at Menards</stop_name>
+      <stop_lat>46.82</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>17032</stop_id>
+      <check>17032</check>
+      <stop_name>Burning Tree Rd - Best Bu</stop_name>
+      <stop_lat>46.81</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17033</stop_id>
+      <check>17033</check>
+      <stop_name>Burning Tree Rd - Super One</stop_name>
+      <stop_lat>46.81</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17043</stop_id>
+      <check>17043</check>
+      <stop_name>Commonwealth and Carterett</stop_name>
+      <stop_lat>46.67</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17056</stop_id>
+      <check>17056</check>
+      <stop_name>Central Ave and Bristol</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17057</stop_id>
+      <check>17057</check>
+      <stop_name>Grand Ave and Central Ave</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17058</stop_id>
+      <check>17058</check>
+      <stop_name>Central Ave and Main St</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17059</stop_id>
+      <check>17059</check>
+      <stop_name>Central Ave and Nicollet St</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17060</stop_id>
+      <check>17060</check>
+      <stop_name>Raleigh St and Central Ave</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17061</stop_id>
+      <check>17061</check>
+      <stop_name>Central Ave and Ramsey St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17086</stop_id>
+      <check>17086</check>
+      <stop_name>Grand Ave and Clyde St</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>17100</stop_id>
+      <check>17100</check>
+      <stop_name>Idaho St and Commonwealth A</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>17101</stop_id>
+      <check>17101</check>
+      <stop_name>88 AW and Concord St</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>17104</stop_id>
+      <check>17104</check>
+      <stop_name>Commonwealth and Crestline</stop_name>
+      <stop_lat>46.67</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17114</stop_id>
+      <check>17114</check>
+      <stop_name>Decker Rd and Mall Dr</stop_name>
+      <stop_lat>46.81</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>17117</stop_id>
+      <check>17117</check>
+      <stop_name>03 St and Devonshire St</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>17120</stop_id>
+      <check>17120</check>
+      <stop_name>Commonwealth and Dickson St</stop_name>
+      <stop_lat>46.67</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17125</stop_id>
+      <check>17125</check>
+      <stop_name>88 AW and Edward St</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>17131</stop_id>
+      <check>17131</check>
+      <stop_name>Grand Ave and Elinor St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>17133</stop_id>
+      <check>17133</check>
+      <stop_name>88 AW and Falcon St</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>17134</stop_id>
+      <check>17134</check>
+      <stop_name>Commonwealth and Fillmore S</stop_name>
+      <stop_lat>46.66</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17136</stop_id>
+      <check>17136</check>
+      <stop_name>Grand Ave and Fremont St -</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>17139</stop_id>
+      <check>17139</check>
+      <stop_name>Superior St and Garfield Av</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.12</stop_lon>
+   </record>
+   <record>
+      <stop_id>17146</stop_id>
+      <check>17146</check>
+      <stop_name>Commonwealth and Gary St</stop_name>
+      <stop_lat>46.67</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17147</stop_id>
+      <check>17147</check>
+      <stop_name>Superior St and Glen Pl</stop_name>
+      <stop_lat>46.78</stop_lat>
+      <stop_lon>-92.11</stop_lon>
+   </record>
+   <record>
+      <stop_id>17148</stop_id>
+      <check>17148</check>
+      <stop_name>Commonwealth and Glenview C</stop_name>
+      <stop_lat>46.68</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17149</stop_id>
+      <check>17149</check>
+      <stop_name>Commonwealth and Glencrest</stop_name>
+      <stop_lat>46.68</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17168</stop_id>
+      <check>17168</check>
+      <stop_name>Commonwealth and Goodhue St</stop_name>
+      <stop_lat>46.66</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17169</stop_id>
+      <check>17169</check>
+      <stop_name>Grand Ave and Grand Ave Pla</stop_name>
+      <stop_lat>46.71</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>17176</stop_id>
+      <check>17176</check>
+      <stop_name>Maple Grove Rd and Haines R</stop_name>
+      <stop_lat>46.81</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17187</stop_id>
+      <check>17187</check>
+      <stop_name>Commonwealth and Heard St</stop_name>
+      <stop_lat>46.66</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17200</stop_id>
+      <check>17200</check>
+      <stop_name>Idaho St and Hilton St</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>17201</stop_id>
+      <check>17201</check>
+      <stop_name>88 AW and Hilton St</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>17203</stop_id>
+      <check>17203</check>
+      <stop_name>Commonwealth and House St</stop_name>
+      <stop_lat>46.67</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17204</stop_id>
+      <check>17204</check>
+      <stop_name>88 AW and Idaho St</stop_name>
+      <stop_lat>46.68</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>17219</stop_id>
+      <check>17219</check>
+      <stop_name>Grand Ave and Keene St</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>17257</stop_id>
+      <check>17257</check>
+      <stop_name>Grand Ave and Main St</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>17279</stop_id>
+      <check>17279</check>
+      <stop_name>Commonwealth and McCuen</stop_name>
+      <stop_lat>46.66</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17280</stop_id>
+      <check>17280</check>
+      <stop_name>Commonwealth and McGonagle</stop_name>
+      <stop_lat>46.67</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17286</stop_id>
+      <check>17286</check>
+      <stop_name>Vinland St and Midway Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>17287</stop_id>
+      <check>17287</check>
+      <stop_name>Door 8 in</stop_name>
+      <stop_lat>46.8</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>17322</stop_id>
+      <check>17322</check>
+      <stop_name>88 AW and Grand Ave - Morga</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>17371</stop_id>
+      <check>17371</check>
+      <stop_name>Commonwealth and Peary St</stop_name>
+      <stop_lat>46.66</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17378</stop_id>
+      <check>17378</check>
+      <stop_name>Piedmont Ave and 10 St</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>17383</stop_id>
+      <check>17383</check>
+      <stop_name>Piedmont Ave and 22 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>17387</stop_id>
+      <check>17387</check>
+      <stop_name>Piedmont Ave and 06 St</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>17388</stop_id>
+      <check>17388</check>
+      <stop_name>Piedmont Ave and 07 St</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>17405</stop_id>
+      <check>17405</check>
+      <stop_name>Vinland St and Portal Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>17406</stop_id>
+      <check>17406</check>
+      <stop_name>Vinland St and Prince St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>17408</stop_id>
+      <check>17408</check>
+      <stop_name>Grand Ave and Raleigh St</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>17417</stop_id>
+      <check>17417</check>
+      <stop_name>Commonwealth and Reis St</stop_name>
+      <stop_lat>46.67</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17419</stop_id>
+      <check>17419</check>
+      <stop_name>Grand Ave and Riverside Dr</stop_name>
+      <stop_lat>46.71</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>17421</stop_id>
+      <check>17421</check>
+      <stop_name>Grand Ave and Sherbourne St</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>17430</stop_id>
+      <check>17430</check>
+      <stop_name>Vinland St and Skyline Blvd</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>17431</stop_id>
+      <check>17431</check>
+      <stop_name>88 AW and Spirit Lake Manor</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>17432</stop_id>
+      <check>17432</check>
+      <stop_name>Grand Ave and Spring St</stop_name>
+      <stop_lat>46.71</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>17433</stop_id>
+      <check>17433</check>
+      <stop_name>Haines Rd and St. Louis Cou Jail</stop_name>
+      <stop_lat>46.83</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17439</stop_id>
+      <check>17439</check>
+      <stop_name>Commonwealth and Stowe St</stop_name>
+      <stop_lat>46.66</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>17450</stop_id>
+      <check>17450</check>
+      <stop_name>Grand Ave and Swenson St</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>17506</stop_id>
+      <check>17506</check>
+      <stop_name>Trinity Rd at 3906</stop_name>
+      <stop_lat>46.79</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>17507</stop_id>
+      <check>17507</check>
+      <stop_name>Trinity Rd at 4004</stop_name>
+      <stop_lat>46.8</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>17509</stop_id>
+      <check>17509</check>
+      <stop_name>Trinity Rd at 4203</stop_name>
+      <stop_lat>46.8</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>17512</stop_id>
+      <check>17512</check>
+      <stop_name>Trinity Rd at 4431</stop_name>
+      <stop_lat>46.8</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>17516</stop_id>
+      <check>17516</check>
+      <stop_name>Boundary Ave and Vinland</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>17517</stop_id>
+      <check>17517</check>
+      <stop_name>Colalillo Dr and Wadena</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>17550</stop_id>
+      <check>17550</check>
+      <stop_name>Grand Ave and Zimmerly Ave</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>17557</stop_id>
+      <check>17557</check>
+      <stop_name>03 St and Chesnut St</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>17597</stop_id>
+      <check>17597</check>
+      <stop_name>Haines Road at 4402</stop_name>
+      <stop_lat>46.83</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17598</stop_id>
+      <check>17598</check>
+      <stop_name>Haines Rd and Airpark Blvd</stop_name>
+      <stop_lat>46.83</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17599</stop_id>
+      <check>17599</check>
+      <stop_name>Haines Rd at 4444</stop_name>
+      <stop_lat>46.84</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17612</stop_id>
+      <check>17612</check>
+      <stop_name>Cody St and 58 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17613</stop_id>
+      <check>17613</check>
+      <stop_name>59 AW and Bristol St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17680</stop_id>
+      <check>17680</check>
+      <stop_name>Grand Ave and Hughlett Ave</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>17688</stop_id>
+      <check>17688</check>
+      <stop_name>Grand Ave and Spirit Mtn</stop_name>
+      <stop_lat>46.71</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>17690</stop_id>
+      <check>17690</check>
+      <stop_name>03 St at 3302</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>17691</stop_id>
+      <check>17691</check>
+      <stop_name>03 St and Vernon St</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>17692</stop_id>
+      <check>17692</check>
+      <stop_name>03 St and Restormel St</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>17693</stop_id>
+      <check>17693</check>
+      <stop_name>Superior St and Jeno's Walk (I-35)</stop_name>
+      <stop_lat>46.78</stop_lat>
+      <stop_lon>-92.11</stop_lon>
+   </record>
+   <record>
+      <stop_id>17694</stop_id>
+      <check>17694</check>
+      <stop_name>Superior St and Carlton Ave</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>17695</stop_id>
+      <check>17695</check>
+      <stop_name>Colalillo Dr and W Superior</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>17697</stop_id>
+      <check>17697</check>
+      <stop_name>46 AW and Colalillo Dr</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>17708</stop_id>
+      <check>17708</check>
+      <stop_name>03 St and Hwy 02</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>17715</stop_id>
+      <check>17715</check>
+      <stop_name>57 AW and Cody St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>17755</stop_id>
+      <check>17755</check>
+      <stop_name>Grand Ave and 40 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>18017</stop_id>
+      <check>18017</check>
+      <stop_name>Superior St and 31 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>18022</stop_id>
+      <check>18022</check>
+      <stop_name>Grinden Rd and Haines Rd</stop_name>
+      <stop_lat>46.84</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>18030</stop_id>
+      <check>18030</check>
+      <stop_name>Superior St and 21 AW - IB</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.12</stop_lon>
+   </record>
+   <record>
+      <stop_id>18032</stop_id>
+      <check>18032</check>
+      <stop_name>Mall Dr and Haines Rd (Hermantown)</stop_name>
+      <stop_lat>46.81</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>18041</stop_id>
+      <check>18041</check>
+      <stop_name>Grand Ave at Idaho</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>26447</stop_id>
+      <check>26447</check>
+      <stop_name>Vinland St at 8301</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>26463</stop_id>
+      <check>26463</check>
+      <stop_name>Superior St and 15 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.12</stop_lon>
+   </record>
+   <record>
+      <stop_id>26467</stop_id>
+      <check>26467</check>
+      <stop_name>Superior St and 18 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.12</stop_lon>
+   </record>
+   <record>
+      <stop_id>26476</stop_id>
+      <check>26476</check>
+      <stop_name>05 St and 01 Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>26477</stop_id>
+      <check>26477</check>
+      <stop_name>Superior St and 01 AE</stop_name>
+      <stop_lat>46.79</stop_lat>
+      <stop_lon>-92.1</stop_lon>
+   </record>
+   <record>
+      <stop_id>26478</stop_id>
+      <check>26478</check>
+      <stop_name>Superior St and 01 AW</stop_name>
+      <stop_lat>46.79</stop_lat>
+      <stop_lon>-92.1</stop_lon>
+   </record>
+   <record>
+      <stop_id>26481</stop_id>
+      <check>26481</check>
+      <stop_name>Boundary Ave and 01 St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>26484</stop_id>
+      <check>26484</check>
+      <stop_name>Superior St and 20 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.12</stop_lon>
+   </record>
+   <record>
+      <stop_id>26505</stop_id>
+      <check>26505</check>
+      <stop_name>21 AW and 01 St</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26506</stop_id>
+      <check>26506</check>
+      <stop_name>21 AW and 02 St</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26507</stop_id>
+      <check>26507</check>
+      <stop_name>21 AW and 03 St</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26508</stop_id>
+      <check>26508</check>
+      <stop_name>21 AW and Superior St</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.12</stop_lon>
+   </record>
+   <record>
+      <stop_id>26511</stop_id>
+      <check>26511</check>
+      <stop_name>03 St and 22 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26512</stop_id>
+      <check>26512</check>
+      <stop_name>Superior St and 22 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26514</stop_id>
+      <check>26514</check>
+      <stop_name>03 St and 23 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26515</stop_id>
+      <check>26515</check>
+      <stop_name>Superior St and 23 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26526</stop_id>
+      <check>26526</check>
+      <stop_name>03 St and 24 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26534</stop_id>
+      <check>26534</check>
+      <stop_name>Superior St and 24 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26536</stop_id>
+      <check>26536</check>
+      <stop_name>03 St and 25 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26537</stop_id>
+      <check>26537</check>
+      <stop_name>Superior St and 25 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26539</stop_id>
+      <check>26539</check>
+      <stop_name>03 St and 26 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26540</stop_id>
+      <check>26540</check>
+      <stop_name>Superior St and 26 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26542</stop_id>
+      <check>26542</check>
+      <stop_name>03 St and 27 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>26543</stop_id>
+      <check>26543</check>
+      <stop_name>Superior St and 27 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26545</stop_id>
+      <check>26545</check>
+      <stop_name>03 St and 28 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>26546</stop_id>
+      <check>26546</check>
+      <stop_name>Superior St and 28 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26549</stop_id>
+      <check>26549</check>
+      <stop_name>03 St and 29 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>26550</stop_id>
+      <check>26550</check>
+      <stop_name>Superior St and 29 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>26551</stop_id>
+      <check>26551</check>
+      <stop_name>05 St and 02 Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>26557</stop_id>
+      <check>26557</check>
+      <stop_name>Transit Center East - Building</stop_name>
+      <stop_lat>46.78</stop_lat>
+      <stop_lon>-92.1</stop_lon>
+   </record>
+   <record>
+      <stop_id>26580</stop_id>
+      <check>26580</check>
+      <stop_name>Superior St and 30 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>26584</stop_id>
+      <check>26584</check>
+      <stop_name>Superior St and 32 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>26586</stop_id>
+      <check>26586</check>
+      <stop_name>Grand Ave and 33 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>26588</stop_id>
+      <check>26588</check>
+      <stop_name>Grand Ave and 34 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>26589</stop_id>
+      <check>26589</check>
+      <stop_name>Superior St and 34 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>26591</stop_id>
+      <check>26591</check>
+      <stop_name>Grand Ave and 35 AW</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>26594</stop_id>
+      <check>26594</check>
+      <stop_name>Grand Ave and 37 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>26596</stop_id>
+      <check>26596</check>
+      <stop_name>Grand Ave and 38 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>26597</stop_id>
+      <check>26597</check>
+      <stop_name>Michigan St and 38 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>26599</stop_id>
+      <check>26599</check>
+      <stop_name>Grand Ave and 39 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>26602</stop_id>
+      <check>26602</check>
+      <stop_name>05 St and 03 Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>26611</stop_id>
+      <check>26611</check>
+      <stop_name>03 St btw Ugstad and 09th Proctor</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.24</stop_lon>
+   </record>
+   <record>
+      <stop_id>26619</stop_id>
+      <check>26619</check>
+      <stop_name>07 Ave and 03 St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>26626</stop_id>
+      <check>26626</check>
+      <stop_name>40 AW and 04 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>26627</stop_id>
+      <check>26627</check>
+      <stop_name>40 AW and 05 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>26628</stop_id>
+      <check>26628</check>
+      <stop_name>40 AW and 06 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>26629</stop_id>
+      <check>26629</check>
+      <stop_name>40 AW and 07 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26630</stop_id>
+      <check>26630</check>
+      <stop_name>08 St and 40 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26631</stop_id>
+      <check>26631</check>
+      <stop_name>40 AW and Grand Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>26635</stop_id>
+      <check>26635</check>
+      <stop_name>08 St and 41 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26636</stop_id>
+      <check>26636</check>
+      <stop_name>Grand Ave and 41 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>26638</stop_id>
+      <check>26638</check>
+      <stop_name>08 St and 42 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26639</stop_id>
+      <check>26639</check>
+      <stop_name>Grand Ave and 42 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>26641</stop_id>
+      <check>26641</check>
+      <stop_name>08 St and 43 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26642</stop_id>
+      <check>26642</check>
+      <stop_name>Grand Ave and 43 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26644</stop_id>
+      <check>26644</check>
+      <stop_name>08 St and 44 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26645</stop_id>
+      <check>26645</check>
+      <stop_name>Grand Ave and 44 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26660</stop_id>
+      <check>26660</check>
+      <stop_name>Grand Ave and 45 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26664</stop_id>
+      <check>26664</check>
+      <stop_name>46 AW and 04 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26665</stop_id>
+      <check>26665</check>
+      <stop_name>46 AW and 05 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26666</stop_id>
+      <check>26666</check>
+      <stop_name>46 AW and 06 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26667</stop_id>
+      <check>26667</check>
+      <stop_name>46 AW and 07 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26668</stop_id>
+      <check>26668</check>
+      <stop_name>46 AW and 08 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26669</stop_id>
+      <check>26669</check>
+      <stop_name>46 AW and Grand Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26671</stop_id>
+      <check>26671</check>
+      <stop_name>Grand Ave and 47 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26673</stop_id>
+      <check>26673</check>
+      <stop_name>Grand Ave and 48 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26683</stop_id>
+      <check>26683</check>
+      <stop_name>Superior St and 04 AW</stop_name>
+      <stop_lat>46.78</stop_lat>
+      <stop_lon>-92.1</stop_lon>
+   </record>
+   <record>
+      <stop_id>26716</stop_id>
+      <check>26716</check>
+      <stop_name>07 Ave and 04 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>26732</stop_id>
+      <check>26732</check>
+      <stop_name>Ramsey St and 51 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26736</stop_id>
+      <check>26736</check>
+      <stop_name>Ramsey St and 52 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26738</stop_id>
+      <check>26738</check>
+      <stop_name>08 St and 53 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26739</stop_id>
+      <check>26739</check>
+      <stop_name>Ramsey St and 53 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>26746</stop_id>
+      <check>26746</check>
+      <stop_name>Ramsey St and 54 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26748</stop_id>
+      <check>26748</check>
+      <stop_name>Grand Ave and 56 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26749</stop_id>
+      <check>26749</check>
+      <stop_name>Raleigh St and 56 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26751</stop_id>
+      <check>26751</check>
+      <stop_name>57 AW and 08 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26753</stop_id>
+      <check>26753</check>
+      <stop_name>57 AW and Elinor St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26754</stop_id>
+      <check>26754</check>
+      <stop_name>Grand Ave and 57 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26755</stop_id>
+      <check>26755</check>
+      <stop_name>57 AW and Highland St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26756</stop_id>
+      <check>26756</check>
+      <stop_name>57 AW and Huntington St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26757</stop_id>
+      <check>26757</check>
+      <stop_name>57 AW and Kinnear West Pl</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26758</stop_id>
+      <check>26758</check>
+      <stop_name>57 AW and Olney St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26759</stop_id>
+      <check>26759</check>
+      <stop_name>Raleigh St and 57 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26761</stop_id>
+      <check>26761</check>
+      <stop_name>57 AW and West Pl</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26764</stop_id>
+      <check>26764</check>
+      <stop_name>Grand Ave and 58 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26765</stop_id>
+      <check>26765</check>
+      <stop_name>Highland St and 58 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26766</stop_id>
+      <check>26766</check>
+      <stop_name>Raleigh St and 58 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26768</stop_id>
+      <check>26768</check>
+      <stop_name>59 AW and Cody St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26769</stop_id>
+      <check>26769</check>
+      <stop_name>Grand Ave and 59 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26771</stop_id>
+      <check>26771</check>
+      <stop_name>Highland St and 59 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26772</stop_id>
+      <check>26772</check>
+      <stop_name>Raleigh St and 59 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26773</stop_id>
+      <check>26773</check>
+      <stop_name>59 AW and Ramsey St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26774</stop_id>
+      <check>26774</check>
+      <stop_name>59 AW and Wadena St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26775</stop_id>
+      <check>26775</check>
+      <stop_name>02 St and 05 Ave</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>26781</stop_id>
+      <check>26781</check>
+      <stop_name>Piedmont Ave at 13 St - ne stop</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>26819</stop_id>
+      <check>26819</check>
+      <stop_name>Raleigh St and 60 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26822</stop_id>
+      <check>26822</check>
+      <stop_name>Raleigh St and 61 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26825</stop_id>
+      <check>26825</check>
+      <stop_name>Highland St and 62 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>26828</stop_id>
+      <check>26828</check>
+      <stop_name>Grand Ave and 63 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>26829</stop_id>
+      <check>26829</check>
+      <stop_name>Highland St and 63 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>26830</stop_id>
+      <check>26830</check>
+      <stop_name>63 AW and Raleigh St</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>26832</stop_id>
+      <check>26832</check>
+      <stop_name>Grand Ave and 64 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>26834</stop_id>
+      <check>26834</check>
+      <stop_name>Grand Ave and 66 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>26838</stop_id>
+      <check>26838</check>
+      <stop_name>Grand Ave and 69 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>26839</stop_id>
+      <check>26839</check>
+      <stop_name>02 St and 06 AE</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>26856</stop_id>
+      <check>26856</check>
+      <stop_name>Haines Rd and Arrowhead Rd</stop_name>
+      <stop_lat>46.82</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>26857</stop_id>
+      <check>26857</check>
+      <stop_name>Arrowhead Road at Airbase</stop_name>
+      <stop_lat>46.82</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>26860</stop_id>
+      <check>26860</check>
+      <stop_name>Grand Ave and 75 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>26861</stop_id>
+      <check>26861</check>
+      <stop_name>Vinland St and 75 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>26862</stop_id>
+      <check>26862</check>
+      <stop_name>Grand Ave and 76 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>26863</stop_id>
+      <check>26863</check>
+      <stop_name>Grand Ave and 77 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>26864</stop_id>
+      <check>26864</check>
+      <stop_name>Vinland St and 77 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>26865</stop_id>
+      <check>26865</check>
+      <stop_name>Grand Ave and 78 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>26866</stop_id>
+      <check>26866</check>
+      <stop_name>Vinland St and 78 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>26867</stop_id>
+      <check>26867</check>
+      <stop_name>Grand Ave and 79 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>26868</stop_id>
+      <check>26868</check>
+      <stop_name>02 St and 07 Ave</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>26886</stop_id>
+      <check>26886</check>
+      <stop_name>Grand Ave and 80 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>26887</stop_id>
+      <check>26887</check>
+      <stop_name>Vinland St and 81 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>26889</stop_id>
+      <check>26889</check>
+      <stop_name>Grand Ave and 82 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>26890</stop_id>
+      <check>26890</check>
+      <stop_name>Grand Ave and 83 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>26891</stop_id>
+      <check>26891</check>
+      <stop_name>Grand Ave and 84 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>26892</stop_id>
+      <check>26892</check>
+      <stop_name>Grand Ave and 85 AW</stop_name>
+      <stop_lat>46.72</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>26893</stop_id>
+      <check>26893</check>
+      <stop_name>Vinland St and 85 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>26894</stop_id>
+      <check>26894</check>
+      <stop_name>Vinland St and 87 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>26895</stop_id>
+      <check>26895</check>
+      <stop_name>88 AW at 742</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>26899</stop_id>
+      <check>26899</check>
+      <stop_name>88 AW and Beverly</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>26900</stop_id>
+      <check>26900</check>
+      <stop_name>Idaho St and 89 AW</stop_name>
+      <stop_lat>46.68</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>26901</stop_id>
+      <check>26901</check>
+      <stop_name>04 St and 08 Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>26914</stop_id>
+      <check>26914</check>
+      <stop_name>Idaho St and 90 AW</stop_name>
+      <stop_lat>46.68</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>26915</stop_id>
+      <check>26915</check>
+      <stop_name>Idaho St and 91 AW</stop_name>
+      <stop_lat>46.68</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>26916</stop_id>
+      <check>26916</check>
+      <stop_name>Idaho St and 92 AW</stop_name>
+      <stop_lat>46.68</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>26918</stop_id>
+      <check>26918</check>
+      <stop_name>Idaho St and 93 AW - Hilton</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>26919</stop_id>
+      <check>26919</check>
+      <stop_name>04 St and 09 Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.24</stop_lon>
+   </record>
+   <record>
+      <stop_id>26935</stop_id>
+      <check>26935</check>
+      <stop_name>Anchor St and Arbutus Dr</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>26989</stop_id>
+      <check>26989</check>
+      <stop_name>Grand Ave and Beaudry St</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>27013</stop_id>
+      <check>27013</check>
+      <stop_name>Grand Ave and Bessemer St</stop_name>
+      <stop_lat>46.71</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>27015</stop_id>
+      <check>27015</check>
+      <stop_name>Commonwealth and Bowser St</stop_name>
+      <stop_lat>46.66</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>27016</stop_id>
+      <check>27016</check>
+      <stop_name>Bridgeman's</stop_name>
+      <stop_lat>46.81</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27017</stop_id>
+      <check>27017</check>
+      <stop_name>Arrowhead Rd at Menards</stop_name>
+      <stop_lat>46.82</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>27030</stop_id>
+      <check>27030</check>
+      <stop_name>Boundary Ave and Brook</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27043</stop_id>
+      <check>27043</check>
+      <stop_name>Commonwealth and Carterett</stop_name>
+      <stop_lat>46.67</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>27056</stop_id>
+      <check>27056</check>
+      <stop_name>Central Ave and Bristol</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27057</stop_id>
+      <check>27057</check>
+      <stop_name>Grand Ave and Central Ave</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27058</stop_id>
+      <check>27058</check>
+      <stop_name>Central Ave and Main St</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27059</stop_id>
+      <check>27059</check>
+      <stop_name>Central Ave and Nicollet St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27060</stop_id>
+      <check>27060</check>
+      <stop_name>Central Ave and Raleigh St</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27061</stop_id>
+      <check>27061</check>
+      <stop_name>Ramsey St and Central Ave</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27086</stop_id>
+      <check>27086</check>
+      <stop_name>Grand Ave and Clyde St</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27100</stop_id>
+      <check>27100</check>
+      <stop_name>Idaho St and Commonwealth A</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27101</stop_id>
+      <check>27101</check>
+      <stop_name>88 AW and Concord St</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>27104</stop_id>
+      <check>27104</check>
+      <stop_name>Commonwealth and Crestline</stop_name>
+      <stop_lat>46.67</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>27114</stop_id>
+      <check>27114</check>
+      <stop_name>Decker Rd and Mall Dr</stop_name>
+      <stop_lat>46.81</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>27117</stop_id>
+      <check>27117</check>
+      <stop_name>03 St and Devonshire St</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>27120</stop_id>
+      <check>27120</check>
+      <stop_name>Commonwealth and Dickson St</stop_name>
+      <stop_lat>46.67</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>27125</stop_id>
+      <check>27125</check>
+      <stop_name>88 AW and Edward St</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>27131</stop_id>
+      <check>27131</check>
+      <stop_name>Grand Ave and Elinor St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>27133</stop_id>
+      <check>27133</check>
+      <stop_name>88 AW and Falcon St</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>27134</stop_id>
+      <check>27134</check>
+      <stop_name>Commonwealth and Fillmore S</stop_name>
+      <stop_lat>46.66</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>27136</stop_id>
+      <check>27136</check>
+      <stop_name>Grand Ave and Fremont St -</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>27139</stop_id>
+      <check>27139</check>
+      <stop_name>Superior St and Garfield Av</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.12</stop_lon>
+   </record>
+   <record>
+      <stop_id>27146</stop_id>
+      <check>27146</check>
+      <stop_name>Commonwealth and Gary St</stop_name>
+      <stop_lat>46.67</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>27147</stop_id>
+      <check>27147</check>
+      <stop_name>Superior St and Glen Pl</stop_name>
+      <stop_lat>46.78</stop_lat>
+      <stop_lon>-92.11</stop_lon>
+   </record>
+   <record>
+      <stop_id>27168</stop_id>
+      <check>27168</check>
+      <stop_name>Commonwealth and Goodhue St</stop_name>
+      <stop_lat>46.66</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>27169</stop_id>
+      <check>27169</check>
+      <stop_name>Grand Ave and Grand Ave Pla</stop_name>
+      <stop_lat>46.71</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>27170</stop_id>
+      <check>27170</check>
+      <stop_name>Boundary Ave and Grove St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27175</stop_id>
+      <check>27175</check>
+      <stop_name>Haines Rd and Mall Dr</stop_name>
+      <stop_lat>46.81</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27187</stop_id>
+      <check>27187</check>
+      <stop_name>Commonwealth and Heard St</stop_name>
+      <stop_lat>46.66</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>27200</stop_id>
+      <check>27200</check>
+      <stop_name>93 AW and Hilton St - Idaho</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27203</stop_id>
+      <check>27203</check>
+      <stop_name>Commonwealth and House St</stop_name>
+      <stop_lat>46.67</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>27204</stop_id>
+      <check>27204</check>
+      <stop_name>88 AW and Idaho St</stop_name>
+      <stop_lat>46.68</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>27218</stop_id>
+      <check>27218</check>
+      <stop_name>K-Mart - Mall</stop_name>
+      <stop_lat>46.81</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27219</stop_id>
+      <check>27219</check>
+      <stop_name>Grand Ave and Keene St</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27257</stop_id>
+      <check>27257</check>
+      <stop_name>Grand Ave and Main St</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>27279</stop_id>
+      <check>27279</check>
+      <stop_name>Commonwealth and McCuen</stop_name>
+      <stop_lat>46.66</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>27280</stop_id>
+      <check>27280</check>
+      <stop_name>Commonwealth and McGonagle</stop_name>
+      <stop_lat>46.67</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>27281</stop_id>
+      <check>27281</check>
+      <stop_name>Boundary Ave and Meadow St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27285</stop_id>
+      <check>27285</check>
+      <stop_name>03 St and Michigan Ave</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>27286</stop_id>
+      <check>27286</check>
+      <stop_name>Vinland St and Midway Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>27287</stop_id>
+      <check>27287</check>
+      <stop_name>Door 8 out</stop_name>
+      <stop_lat>46.8</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>27322</stop_id>
+      <check>27322</check>
+      <stop_name>88 AW and Grand Ave - Morgan Park Ent</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27362</stop_id>
+      <check>27362</check>
+      <stop_name>Highland St and Oneota Ceme</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>27363</stop_id>
+      <check>27363</check>
+      <stop_name>Boundary Ave and Orchard St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27369</stop_id>
+      <check>27369</check>
+      <stop_name>03 St and Pacific Ave</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>27371</stop_id>
+      <check>27371</check>
+      <stop_name>Commonwealth and Peary St</stop_name>
+      <stop_lat>46.66</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>27379</stop_id>
+      <check>27379</check>
+      <stop_name>Piedmont Ave and 11 St</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>27383</stop_id>
+      <check>27383</check>
+      <stop_name>Piedmont Ave and 22 AW</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>27388</stop_id>
+      <check>27388</check>
+      <stop_name>Piedmont Ave and 07 St</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.13</stop_lon>
+   </record>
+   <record>
+      <stop_id>27405</stop_id>
+      <check>27405</check>
+      <stop_name>Vinland St and Portal Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>27406</stop_id>
+      <check>27406</check>
+      <stop_name>Vinland St and Prince St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>27409</stop_id>
+      <check>27409</check>
+      <stop_name>Grand Ave and Redruth St</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>27417</stop_id>
+      <check>27417</check>
+      <stop_name>Commonwealth and Reis St</stop_name>
+      <stop_lat>46.67</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>27418</stop_id>
+      <check>27418</check>
+      <stop_name>03 St and Restormel St</stop_name>
+      <stop_lat>46.76</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>27419</stop_id>
+      <check>27419</check>
+      <stop_name>Grand Ave and Riverside Dr</stop_name>
+      <stop_lat>46.71</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>27421</stop_id>
+      <check>27421</check>
+      <stop_name>Grand Ave and Sherbourne St</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>27430</stop_id>
+      <check>27430</check>
+      <stop_name>Vinland St and Skyline Blvd</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>27431</stop_id>
+      <check>27431</check>
+      <stop_name>88 AW and Spirit Lake Manor</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>27432</stop_id>
+      <check>27432</check>
+      <stop_name>Grand Ave and Spring St</stop_name>
+      <stop_lat>46.71</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>27433</stop_id>
+      <check>27433</check>
+      <stop_name>Haines Rd and St. Louis County Jail</stop_name>
+      <stop_lat>46.83</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27439</stop_id>
+      <check>27439</check>
+      <stop_name>Commonwealth and Stowe St</stop_name>
+      <stop_lat>46.66</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>27450</stop_id>
+      <check>27450</check>
+      <stop_name>Grand Ave and Swenson St</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>27451</stop_id>
+      <check>27451</check>
+      <stop_name>Target</stop_name>
+      <stop_lat>46.81</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27509</stop_id>
+      <check>27509</check>
+      <stop_name>Trinity Rd at 4203</stop_name>
+      <stop_lat>46.8</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>27510</stop_id>
+      <check>27510</check>
+      <stop_name>Trinity Rd at 4310</stop_name>
+      <stop_lat>46.8</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>27516</stop_id>
+      <check>27516</check>
+      <stop_name>Vinland St and Boundary Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27517</stop_id>
+      <check>27517</check>
+      <stop_name>Colalillo Dr and Wadena</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>27550</stop_id>
+      <check>27550</check>
+      <stop_name>Grand Ave and Zimmerly Ave</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27553</stop_id>
+      <check>27553</check>
+      <stop_name>Walmart - Hermantown</stop_name>
+      <stop_lat>46.82</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>27570</stop_id>
+      <check>27570</check>
+      <stop_name>Miller Hill Mall/Northstar Ford</stop_name>
+      <stop_lat>46.8</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>27597</stop_id>
+      <check>27597</check>
+      <stop_name>Haines Rd at 4402</stop_name>
+      <stop_lat>46.83</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27598</stop_id>
+      <check>27598</check>
+      <stop_name>Haines Rd and Airpark Blvd</stop_name>
+      <stop_lat>46.83</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27599</stop_id>
+      <check>27599</check>
+      <stop_name>Haines Rd at 4444</stop_name>
+      <stop_lat>46.83</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27600</stop_id>
+      <check>27600</check>
+      <stop_name>Airport Terminal</stop_name>
+      <stop_lat>46.84</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>27612</stop_id>
+      <check>27612</check>
+      <stop_name>Cody St and 58 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27613</stop_id>
+      <check>27613</check>
+      <stop_name>59 AW and Bristol St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>27679</stop_id>
+      <check>27679</check>
+      <stop_name>Grand Ave and 65 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>27680</stop_id>
+      <check>27680</check>
+      <stop_name>Grand Ave and Hughlett Ave</stop_name>
+      <stop_lat>46.7</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27688</stop_id>
+      <check>27688</check>
+      <stop_name>Grand Ave and Spirit Mtn</stop_name>
+      <stop_lat>46.71</stop_lat>
+      <stop_lon>-92.2</stop_lon>
+   </record>
+   <record>
+      <stop_id>27693</stop_id>
+      <check>27693</check>
+      <stop_name>Superior St and Jeno's Walk</stop_name>
+      <stop_lat>46.78</stop_lat>
+      <stop_lon>-92.11</stop_lon>
+   </record>
+   <record>
+      <stop_id>27697</stop_id>
+      <check>27697</check>
+      <stop_name>Colalillo Dr and 46 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>27698</stop_id>
+      <check>27698</check>
+      <stop_name>62 AW and Redruth St</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>27699</stop_id>
+      <check>27699</check>
+      <stop_name>Redruth St and 63 AW</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>27703</stop_id>
+      <check>27703</check>
+      <stop_name>Boundary Ave and 04 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27704</stop_id>
+      <check>27704</check>
+      <stop_name>Boundary Ave and 03 St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27705</stop_id>
+      <check>27705</check>
+      <stop_name>Boundary Ave and 02 St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27707</stop_id>
+      <check>27707</check>
+      <stop_name>Boundary Ave and 01 St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27710</stop_id>
+      <check>27710</check>
+      <stop_name>02 St and Hwy 02</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27711</stop_id>
+      <check>27711</check>
+      <stop_name>04 St and Ugstad Rd</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.24</stop_lon>
+   </record>
+   <record>
+      <stop_id>27713</stop_id>
+      <check>27713</check>
+      <stop_name>Anchor St and Boundary Ave</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27714</stop_id>
+      <check>27714</check>
+      <stop_name>Boundary Ave and Grove St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>27755</stop_id>
+      <check>27755</check>
+      <stop_name>Grand Ave and 40 AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>28001</stop_id>
+      <check>28001</check>
+      <stop_name>Foxtail Ave and Anchor St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>28002</stop_id>
+      <check>28002</check>
+      <stop_name>Foxtail Ave and Nutmeg Lane</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>28003</stop_id>
+      <check>28003</check>
+      <stop_name>Foxtail Ave and Arbutus Dr</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>28004</stop_id>
+      <check>28004</check>
+      <stop_name>Arbutus Dr and Dewberry Lan</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>28029</stop_id>
+      <check>28029</check>
+      <stop_name>Mall Dr and Haines Rd (Hermantown)</stop_name>
+      <stop_lat>46.81</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>28030</stop_id>
+      <check>28030</check>
+      <stop_name>Superior St and 21 AW - OB</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.12</stop_lon>
+   </record>
+   <record>
+      <stop_id>28041</stop_id>
+      <check>28041</check>
+      <stop_name>Grand Ave at Idaho</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>36858</stop_id>
+      <check>36858</check>
+      <stop_name>04 St and 09 St - Proctor Layover</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.24</stop_lon>
+   </record>
+   <record>
+      <stop_id>37136</stop_id>
+      <check>37136</check>
+      <stop_name>Zoo Lay Over</stop_name>
+      <stop_lat>46.73</stop_lat>
+      <stop_lon>-92.19</stop_lon>
+   </record>
+   <record>
+      <stop_id>37175</stop_id>
+      <check>37175</check>
+      <stop_name>29MM Terminal</stop_name>
+      <stop_lat>46.81</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>37279</stop_id>
+      <check>37279</check>
+      <stop_name>Commonwealth and McCuen Lay</stop_name>
+      <stop_lat>46.66</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>37721</stop_id>
+      <check>37721</check>
+      <stop_name>Lake Superior College</stop_name>
+      <stop_lat>46.78</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>40001</stop_id>
+      <check>40001</check>
+      <stop_name>Superior St and 06 AW - Lib</stop_name>
+      <stop_lat>46.78</stop_lat>
+      <stop_lon>-92.11</stop_lon>
+   </record>
+   <record>
+      <stop_id>40002</stop_id>
+      <check>40002</check>
+      <stop_name>Superior St and 06 AW - Rad</stop_name>
+      <stop_lat>46.78</stop_lat>
+      <stop_lon>-92.11</stop_lon>
+   </record>
+   <record>
+      <stop_id>40004</stop_id>
+      <check>40004</check>
+      <stop_name>Superior St and 07 AW - Len</stop_name>
+      <stop_lat>46.78</stop_lat>
+      <stop_lon>-92.11</stop_lon>
+   </record>
+   <record>
+      <stop_id>40015</stop_id>
+      <check>40015</check>
+      <stop_name>Superior St and 06 AW - Inc side</stop_name>
+      <stop_lat>46.78</stop_lat>
+      <stop_lon>-92.11</stop_lon>
+   </record>
+   <record>
+      <stop_id>40023</stop_id>
+      <check>40023</check>
+      <stop_name>Colalillo Dr and 46 AW</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>40026</stop_id>
+      <check>40026</check>
+      <stop_name>Grand Ave and Memorial Fiel</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>40027</stop_id>
+      <check>40027</check>
+      <stop_name>Commonwealth and Becks Rd</stop_name>
+      <stop_lat>46.68</stop_lat>
+      <stop_lon>-92.23</stop_lon>
+   </record>
+   <record>
+      <stop_id>40028</stop_id>
+      <check>40028</check>
+      <stop_name>Idaho St and Grand Ave</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>40040</stop_id>
+      <check>40040</check>
+      <stop_name>02 St and 01 AE - 2e layover</stop_name>
+      <stop_lat>46.79</stop_lat>
+      <stop_lon>-92.1</stop_lon>
+   </record>
+   <record>
+      <stop_id>40041</stop_id>
+      <check>40041</check>
+      <stop_name>Superior St at Michigan St 38th AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>40042</stop_id>
+      <check>40042</check>
+      <stop_name>38th AW and Michigan St</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.14</stop_lon>
+   </record>
+   <record>
+      <stop_id>40043</stop_id>
+      <check>40043</check>
+      <stop_name>Superior St and 39th AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>40044</stop_id>
+      <check>40044</check>
+      <stop_name>Superior St and 39th AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>40045</stop_id>
+      <check>40045</check>
+      <stop_name>Superior Street and 40th AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>40046</stop_id>
+      <check>40046</check>
+      <stop_name>Superior St and 40th AW</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.15</stop_lon>
+   </record>
+   <record>
+      <stop_id>50002</stop_id>
+      <check>50002</check>
+      <stop_name>Haines Rd and Grinden Dr</stop_name>
+      <stop_lat>46.84</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>50014</stop_id>
+      <check>50014</check>
+      <stop_name>05 St and Boundary Ave</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>60008</stop_id>
+      <check>60008</check>
+      <stop_name>Miller Hill Mall - Sears</stop_name>
+      <stop_lat>46.8</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>60009</stop_id>
+      <check>60009</check>
+      <stop_name>Grand Ave and US Bank</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>60015</stop_id>
+      <check>60015</check>
+      <stop_name>Boundry Ave and Oak St</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>60016</stop_id>
+      <check>60016</check>
+      <stop_name>03 Ave and Hwy 02</stop_name>
+      <stop_lat>46.74</stop_lat>
+      <stop_lon>-92.22</stop_lon>
+   </record>
+   <record>
+      <stop_id>60019</stop_id>
+      <check>60019</check>
+      <stop_name>Trinity Rd at 3919</stop_name>
+      <stop_lat>46.8</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>60020</stop_id>
+      <check>60020</check>
+      <stop_name>Trinity Rd at 4021</stop_name>
+      <stop_lat>46.8</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>60024</stop_id>
+      <check>60024</check>
+      <stop_name>Grand Ave and 46 AW - OB</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>60025</stop_id>
+      <check>60025</check>
+      <stop_name>Grand Ave and 46 AW - IB</stop_name>
+      <stop_lat>46.75</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+   <record>
+      <stop_id>90086</stop_id>
+      <check>90086</check>
+      <stop_name>88 AW - Morgan Park MS</stop_name>
+      <stop_lat>46.69</stop_lat>
+      <stop_lon>-92.21</stop_lon>
+   </record>
+   <record>
+      <stop_id>400067</stop_id>
+      <check>400067</check>
+      <stop_name>Superior and Garfield - west of</stop_name>
+      <stop_lat>46.77</stop_lat>
+      <stop_lon>-92.12</stop_lon>
+   </record>
+   <record>
+      <stop_id>400068</stop_id>
+      <check>400068</check>
+      <stop_name>Walmart Duluth</stop_name>
+      <stop_lat>46.82</stop_lat>
+      <stop_lon>-92.18</stop_lon>
+   </record>
+   <record>
+      <stop_id>400069</stop_id>
+      <check>400069</check>
+      <stop_name>Target Miller Hill</stop_name>
+      <stop_lat>46.81</stop_lat>
+      <stop_lon>-92.17</stop_lon>
+   </record>
+   <record>
+      <stop_id>400078</stop_id>
+      <check>400078</check>
+      <stop_name>Superior St and 02 AW US Bank</stop_name>
+      <stop_lat>46.79</stop_lat>
+      <stop_lon>-92.1</stop_lon>
+   </record>
+   <record>
+      <stop_id>400079</stop_id>
+      <check>400079</check>
+      <stop_name>Superior St and Lake Ave</stop_name>
+      <stop_lat>46.79</stop_lat>
+      <stop_lon>-92.1</stop_lon>
+   </record>
+   <record>
+      <stop_id>400084</stop_id>
+      <check>400084</check>
+      <stop_name>Miller Hill Mall - Sears Inbound</stop_name>
+      <stop_lat>46.8</stop_lat>
+      <stop_lon>-92.16</stop_lon>
+   </record>
+</document>

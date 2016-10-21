@@ -1,0 +1,42 @@
+<document>
+   <record>
+      <route_id>1</route_id>
+      <agency_id>DTA</agency_id>
+      <route_short_name>1</route_short_name>
+      <route_long_name>Grand Avenue Zoo</route_long_name>
+      <route_desc></route_desc>
+      <route_type>3</route_type>
+   </record>
+   <record>
+      <route_id>2</route_id>
+      <agency_id>DTA</agency_id>
+      <route_short_name>2</route_short_name>
+      <route_long_name>New Duluth</route_long_name>
+      <route_desc></route_desc>
+      <route_type>3</route_type>
+   </record>
+   <record>
+      <route_id>3</route_id>
+      <agency_id>DTA</agency_id>
+      <route_short_name>3</route_short_name>
+      <route_long_name>Proctor</route_long_name>
+      <route_desc></route_desc>
+      <route_type>3</route_type>
+   </record>
+   <record>
+      <route_id>4</route_id>
+      <agency_id>DTA</agency_id>
+      <route_short_name>4</route_short_name>
+      <route_long_name>Ramsey-Raleigh</route_long_name>
+      <route_desc></route_desc>
+      <route_type>3</route_type>
+   </record>
+   <record>
+      <route_id>5</route_id>
+      <agency_id>DTA</agency_id>
+      <route_short_name>5</route_short_name>
+      <route_long_name>West to Mall</route_long_name>
+      <route_desc></route_desc>
+      <route_type>3</route_type>
+   </record>
+</document>

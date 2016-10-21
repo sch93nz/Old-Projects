@@ -1,0 +1,2416 @@
+Trip [trip=[Path [date=2013-04-20 05:00:00.0, TripFinished=true, locations=[Location
+			 [longitude=174.8631212, latitude=-41.1422632, time=2013-04-20 05:00:00.0]
+, Location
+			 [longitude=174.8576506, latitude=-41.1343863, time=2013-04-20 16:31:28.0]
+, Location
+			 [longitude=174.8443169, latitude=-41.1491342, time=2013-04-20 17:00:11.0]
+, Location
+			 [longitude=174.8576706, latitude=-41.1344007, time=2013-04-20 17:42:55.0]
+, Location
+			 [longitude=174.8487521, latitude=-41.1442146, time=2013-04-20 18:09:08.0]
+, Location
+			 [longitude=174.8630999, latitude=-41.1418606, time=2013-04-20 18:30:18.0]
+, Location
+			 [longitude=174.8509937, latitude=-41.1417674, time=2013-04-20 18:43:59.0]
+, Location
+			 [longitude=174.8630999, latitude=-41.1418606, time=2013-04-20 18:58:11.0]
+, Location
+			 [longitude=174.8576506, latitude=-41.1343863, time=2013-04-20 20:04:08.0]
+, Location
+			 [longitude=174.8630999, latitude=-41.1418606, time=2013-04-20 20:35:56.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-20 21:09:02.0]
+, Location
+			 [longitude=174.8576706, latitude=-41.1344007, time=2013-04-20 21:31:06.0]
+, Location
+			 [longitude=174.8630999, latitude=-41.1418606, time=2013-04-20 22:05:43.0]
+, Location
+			 [longitude=174.8576506, latitude=-41.1343863, time=2013-04-20 23:32:36.0]
+, Location
+			 [longitude=174.8630999, latitude=-41.1418606, time=2013-04-20 23:44:05.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-04-21 00:05:42.0, TripFinished=true, locations=[Location
+			 [longitude=174.8576706, latitude=-41.1344007, time=2013-04-21 00:05:42.0]
+, Location
+			 [longitude=174.8630999, latitude=-41.1418606, time=2013-04-21 00:33:59.0]
+, Location
+			 [longitude=174.863847, latitude=-41.143234, time=2013-04-21 02:43:16.0]
+, Location
+			 [longitude=174.8630999, latitude=-41.1418606, time=2013-04-21 03:05:50.0]
+, Location
+			 [longitude=174.8576706, latitude=-41.1344007, time=2013-04-21 03:18:16.0]
+, Location
+			 [longitude=174.8630999, latitude=-41.1418606, time=2013-04-21 03:29:17.0]
+, Location
+			 [longitude=174.8576506, latitude=-41.1343863, time=2013-04-21 14:24:46.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-21 14:35:43.0]
+, Location
+			 [longitude=174.8576506, latitude=-41.1343863, time=2013-04-21 14:46:23.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-21 14:57:54.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-21 15:10:03.0]
+, Location
+			 [longitude=174.857679, latitude=-41.1344114, time=2013-04-21 15:20:09.0]
+, Location
+			 [longitude=174.8427259, latitude=-41.1486823, time=2013-04-21 15:39:14.0]
+, Location
+			 [longitude=174.7857699, latitude=-41.270648, time=2013-04-21 15:49:27.0]
+, Location
+			 [longitude=174.7793545, latitude=-41.2790054, time=2013-04-21 16:05:44.0]
+, Location
+			 [longitude=174.7822425, latitude=-41.276316, time=2013-04-21 16:22:10.0]
+, Location
+			 [longitude=174.8896863, latitude=-41.2165151, time=2013-04-21 16:43:33.0]
+, Location
+			 [longitude=175.0026763, latitude=-41.1422748, time=2013-04-21 16:53:36.0]
+, Location
+			 [longitude=175.1192994, latitude=-41.0936519, time=2013-04-21 17:07:18.0]
+, Location
+			 [longitude=175.2069708, latitude=-41.0965401, time=2013-04-21 17:18:21.0]
+, Location
+			 [longitude=175.2872155, latitude=-41.1089537, time=2013-04-21 17:28:27.0]
+, Location
+			 [longitude=175.3283454, latitude=-41.1228518, time=2013-04-21 17:50:36.0]
+, Location
+			 [longitude=175.5184453, latitude=-41.0319961, time=2013-04-21 18:03:14.0]
+, Location
+			 [longitude=175.6638111, latitude=-40.9495576, time=2013-04-21 18:20:58.0]
+, Location
+			 [longitude=175.6367067, latitude=-40.8581499, time=2013-04-21 18:35:03.0]
+, Location
+			 [longitude=175.6500382, latitude=-40.7100253, time=2013-04-21 18:47:12.0]
+, Location
+			 [longitude=175.8701017, latitude=-40.3407975, time=2013-04-21 19:38:50.0]
+, Location
+			 [longitude=175.8356512, latitude=-40.4553237, time=2013-04-21 19:57:58.0]
+, Location
+			 [longitude=175.569826, latitude=-40.2299706, time=2013-04-21 20:17:49.0]
+, Location
+			 [longitude=175.6162484, latitude=-40.3657431, time=2013-04-21 20:30:09.0]
+, Location
+			 [longitude=175.6200949, latitude=-40.3516539, time=2013-04-21 20:54:05.0]
+, Location
+			 [longitude=175.6195078, latitude=-40.3527672, time=2013-04-21 21:11:08.0]
+, Location
+			 [longitude=175.6166516, latitude=-40.3530433, time=2013-04-21 21:22:11.0]
+, Location
+			 [longitude=175.6201025, latitude=-40.3516392, time=2013-04-21 21:34:08.0]
+, Location
+			 [longitude=175.6146554, latitude=-40.3536054, time=2013-04-21 21:48:21.0]
+, Location
+			 [longitude=175.4700241, latitude=-40.4504436, time=2013-04-21 21:58:54.0]
+, Location
+			 [longitude=175.3976367, latitude=-40.5611004, time=2013-04-21 22:15:39.0]
+, Location
+			 [longitude=175.2847382, latitude=-40.6368913, time=2013-04-21 22:27:38.0]
+, Location
+			 [longitude=175.2083482, latitude=-40.7204916, time=2013-04-21 22:40:45.0]
+, Location
+			 [longitude=175.1023942, latitude=-40.8151181, time=2013-04-21 22:52:55.0]
+, Location
+			 [longitude=174.9985745, latitude=-40.9220533, time=2013-04-21 23:04:56.0]
+, Location
+			 [longitude=174.8815363, latitude=-41.0460659, time=2013-04-21 23:19:11.0]
+, Location
+			 [longitude=174.8481779, latitude=-41.1345209, time=2013-04-21 23:40:29.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-21 23:53:42.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Bicycle]]]], ]
+Trip [trip=[Path [date=2013-04-22 00:07:20.0, TripFinished=true, locations=[Location
+			 [longitude=174.8532142, latitude=-41.139315, time=2013-04-22 00:07:20.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-22 00:20:11.0]
+, Location
+			 [longitude=174.8576506, latitude=-41.1343863, time=2013-04-22 00:32:03.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-22 00:47:52.0]
+, Location
+			 [longitude=174.8392426, latitude=-41.1327469, time=2013-04-22 01:33:28.0]
+, Location
+			 [longitude=174.8387659, latitude=-41.1324508, time=2013-04-22 01:54:00.0]
+, Location
+			 [longitude=174.8395771, latitude=-41.1327813, time=2013-04-22 02:06:11.0]
+, Location
+			 [longitude=174.8631226, latitude=-41.1422646, time=2013-04-22 02:18:17.0]
+, Location
+			 [longitude=174.8576506, latitude=-41.1343863, time=2013-04-22 02:41:37.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-22 02:59:15.0]
+, Location
+			 [longitude=174.8576506, latitude=-41.1343863, time=2013-04-22 03:10:05.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-22 03:21:14.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-22 03:38:23.0]
+, Location
+			 [longitude=174.8576506, latitude=-41.1343863, time=2013-04-22 03:53:29.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-04-22 04:04:25.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-22 13:32:12.0]
+, Location
+			 [longitude=174.8443259, latitude=-41.1491588, time=2013-04-22 13:48:44.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-22 14:40:15.0]
+, Location
+			 [longitude=174.8532142, latitude=-41.139315, time=2013-04-22 15:18:19.0]
+, Location
+			 [longitude=174.8576506, latitude=-41.1343863, time=2013-04-22 15:37:03.0]
+, Location
+			 [longitude=174.8648528, latitude=-41.142803, time=2013-04-22 15:47:04.0]
+, Location
+			 [longitude=174.8650525, latitude=-41.1418839, time=2013-04-22 16:08:11.0]
+, Location
+			 [longitude=174.8631233, latitude=-41.1422633, time=2013-04-22 17:10:53.0]
+, Location
+			 [longitude=174.8532142, latitude=-41.139315, time=2013-04-22 18:20:48.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-22 18:34:54.0]
+, Location
+			 [longitude=174.8556543, latitude=-41.1358577, time=2013-04-22 18:45:04.0]
+, Location
+			 [longitude=174.8593449, latitude=-41.1330899, time=2013-04-22 18:56:16.0]
+, Location
+			 [longitude=174.8556543, latitude=-41.1358577, time=2013-04-22 19:08:19.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-22 19:19:02.0]
+, Location
+			 [longitude=174.8350867, latitude=-41.1655073, time=2013-04-22 19:36:47.0]
+, Location
+			 [longitude=174.8556543, latitude=-41.1358577, time=2013-04-22 19:47:54.0]
+, Location
+			 [longitude=174.8461829, latitude=-41.1512405, time=2013-04-22 19:58:01.0]
+, Location
+			 [longitude=174.8350867, latitude=-41.1655073, time=2013-04-22 20:10:05.0]
+, Location
+			 [longitude=174.8561719, latitude=-41.1363473, time=2013-04-22 20:28:41.0]
+, Location
+			 [longitude=174.8350867, latitude=-41.1655073, time=2013-04-22 20:39:50.0]
+, Location
+			 [longitude=174.8593449, latitude=-41.1330899, time=2013-04-22 20:50:32.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-22 21:02:39.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-22 21:16:12.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-22 21:57:59.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-22 22:41:04.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-22 22:56:44.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-22 23:19:50.0]
+, Location
+			 [longitude=174.8638273, latitude=-41.1432503, time=2013-04-22 23:52:18.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-04-23 00:15:32.0, TripFinished=true, locations=[Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-23 00:15:32.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-23 00:33:58.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-23 00:49:47.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-23 01:19:36.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-23 01:35:25.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-23 01:46:28.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-23 02:04:01.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-23 02:47:23.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-23 02:59:50.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-23 03:58:50.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-23 04:40:08.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-23 11:29:38.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-23 11:44:15.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-23 14:38:14.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-23 15:13:58.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-23 15:31:36.0]
+, Location
+			 [longitude=174.8076032, latitude=-41.228961, time=2013-04-23 15:41:45.0]
+, Location
+			 [longitude=174.7679085, latitude=-41.2900263, time=2013-04-23 16:47:08.0]
+, Location
+			 [longitude=174.7681087, latitude=-41.2884498, time=2013-04-23 17:10:44.0]
+, Location
+			 [longitude=174.767888, latitude=-41.2900307, time=2013-04-23 17:21:44.0]
+, Location
+			 [longitude=174.7717277, latitude=-41.2887174, time=2013-04-23 17:31:48.0]
+, Location
+			 [longitude=174.7782197, latitude=-41.2758452, time=2013-04-23 17:45:47.0]
+, Location
+			 [longitude=174.7786911, latitude=-41.2770044, time=2013-04-23 18:06:24.0]
+, Location
+			 [longitude=174.7782655, latitude=-41.2745878, time=2013-04-23 18:16:58.0]
+, Location
+			 [longitude=174.7779897, latitude=-41.2729719, time=2013-04-23 18:27:29.0]
+, Location
+			 [longitude=174.7681087, latitude=-41.2884498, time=2013-04-23 18:40:02.0]
+, Location
+			 [longitude=174.7795333, latitude=-41.2836456, time=2013-04-23 19:08:41.0]
+, Location
+			 [longitude=174.7739221, latitude=-41.2841967, time=2013-04-23 19:22:05.0]
+, Location
+			 [longitude=174.7713258, latitude=-41.2905335, time=2013-04-23 19:33:52.0]
+, Location
+			 [longitude=174.7781104, latitude=-41.2925748, time=2013-04-23 19:54:09.0]
+, Location
+			 [longitude=174.7681087, latitude=-41.2884498, time=2013-04-23 20:05:07.0]
+, Location
+			 [longitude=174.7683674, latitude=-41.2873505, time=2013-04-23 23:23:13.0]
+, Location
+			 [longitude=174.8311113, latitude=-41.1759912, time=2013-04-23 23:35:29.0]
+, Location
+			 [longitude=174.857668, latitude=-41.1344267, time=2013-04-23 23:46:30.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle]]]], ]
+Trip [trip=[Path [date=2013-04-24 00:08:23.0, TripFinished=true, locations=[Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-24 00:08:23.0]
+, Location
+			 [longitude=174.857668, latitude=-41.1344267, time=2013-04-24 01:07:56.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-24 01:54:19.0]
+, Location
+			 [longitude=174.85135, latitude=-41.139565, time=2013-04-24 02:07:28.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-24 02:31:57.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-24 02:43:31.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-24 03:01:49.0]
+, Location
+			 [longitude=174.8631211, latitude=-41.1422646, time=2013-04-24 03:12:40.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-24 03:27:56.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-24 03:38:10.0]
+, Location
+			 [longitude=174.857668, latitude=-41.1344267, time=2013-04-24 04:38:28.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-24 04:48:57.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-24 16:13:54.0]
+, Location
+			 [longitude=174.857668, latitude=-41.1344267, time=2013-04-24 16:35:04.0]
+, Location
+			 [longitude=174.8533092, latitude=-41.1402864, time=2013-04-24 16:47:32.0]
+, Location
+			 [longitude=174.8175234, latitude=-41.2436169, time=2013-04-24 16:58:21.0]
+, Location
+			 [longitude=174.7678999, latitude=-41.2887016, time=2013-04-24 17:08:39.0]
+, Location
+			 [longitude=174.7679176, latitude=-41.2900295, time=2013-04-24 17:20:35.0]
+, Location
+			 [longitude=174.7713258, latitude=-41.2905335, time=2013-04-24 17:32:35.0]
+, Location
+			 [longitude=174.7679221, latitude=-41.2900125, time=2013-04-24 17:43:56.0]
+, Location
+			 [longitude=174.77473, latitude=-41.293118, time=2013-04-24 18:14:48.0]
+, Location
+			 [longitude=174.7802936, latitude=-41.2932204, time=2013-04-24 18:26:23.0]
+, Location
+			 [longitude=174.7798235, latitude=-41.2927733, time=2013-04-24 18:53:42.0]
+, Location
+			 [longitude=174.7779768, latitude=-41.2886152, time=2013-04-24 19:14:45.0]
+, Location
+			 [longitude=174.7783108, latitude=-41.2920974, time=2013-04-24 21:21:57.0]
+, Location
+			 [longitude=174.7695275, latitude=-41.2894752, time=2013-04-24 21:32:33.0]
+, Location
+			 [longitude=174.7680761, latitude=-41.2884598, time=2013-04-24 21:43:29.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-04-25 00:06:46.0, TripFinished=true, locations=[Location
+			 [longitude=174.7684422, latitude=-41.2901967, time=2013-04-25 00:06:46.0]
+, Location
+			 [longitude=174.782977, latitude=-41.293833, time=2013-04-25 00:17:38.0]
+, Location
+			 [longitude=174.7678844, latitude=-41.2902692, time=2013-04-25 00:34:44.0]
+, Location
+			 [longitude=174.7680761, latitude=-41.2884598, time=2013-04-25 00:45:43.0]
+, Location
+			 [longitude=174.7678994, latitude=-41.290251, time=2013-04-25 00:56:07.0]
+, Location
+			 [longitude=174.7743568, latitude=-41.2935983, time=2013-04-25 01:07:44.0]
+, Location
+			 [longitude=174.7957626, latitude=-41.2570044, time=2013-04-25 01:19:37.0]
+, Location
+			 [longitude=174.846844, latitude=-41.1380774, time=2013-04-25 01:29:43.0]
+, Location
+			 [longitude=174.8443505, latitude=-41.1491445, time=2013-04-25 02:24:29.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-25 02:54:42.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-25 13:35:06.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-25 13:49:11.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-25 14:00:28.0]
+, Location
+			 [longitude=174.8631209, latitude=-41.1422651, time=2013-04-25 14:22:15.0]
+, Location
+			 [longitude=174.8398647, latitude=-41.1332662, time=2013-04-25 14:41:45.0]
+, Location
+			 [longitude=174.8397051, latitude=-41.1327871, time=2013-04-25 14:52:31.0]
+, Location
+			 [longitude=174.8398647, latitude=-41.1332662, time=2013-04-25 15:04:08.0]
+, Location
+			 [longitude=174.8397082, latitude=-41.1327815, time=2013-04-25 15:14:10.0]
+, Location
+			 [longitude=174.8400961, latitude=-41.1315254, time=2013-04-25 16:13:41.0]
+, Location
+			 [longitude=174.8413409, latitude=-41.131869, time=2013-04-25 16:23:45.0]
+, Location
+			 [longitude=174.8406524, latitude=-41.1316878, time=2013-04-25 16:37:49.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-04-25 17:06:02.0]
+, Location
+			 [longitude=174.8631209, latitude=-41.1422651, time=2013-04-25 18:02:04.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-25 18:17:00.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-25 18:33:08.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-25 19:07:54.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-25 20:08:45.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-25 20:42:33.0]
+, Location
+			 [longitude=174.8631204, latitude=-41.142264, time=2013-04-25 20:58:00.0]
+, Location
+			 [longitude=174.8576741, latitude=-41.1344239, time=2013-04-25 22:37:38.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-25 22:47:49.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-25 23:05:44.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-25 23:17:25.0]
+, Location
+			 [longitude=174.8509899, latitude=-41.1417698, time=2013-04-25 23:27:28.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-25 23:50:39.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-04-26 01:35:38.0, TripFinished=true, locations=[Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-26 01:35:38.0]
+, Location
+			 [longitude=174.8576704, latitude=-41.134411, time=2013-04-26 02:09:21.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-26 02:31:52.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-04-26 14:42:19.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-26 14:59:37.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-04-26 15:20:43.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-26 15:47:19.0]
+, Location
+			 [longitude=174.8443538, latitude=-41.1491447, time=2013-04-26 16:03:57.0]
+, Location
+			 [longitude=174.8561767, latitude=-41.1363682, time=2013-04-26 16:19:26.0]
+, Location
+			 [longitude=174.8487791, latitude=-41.1442381, time=2013-04-26 16:31:11.0]
+, Location
+			 [longitude=174.8396124, latitude=-41.1329704, time=2013-04-26 16:41:17.0]
+, Location
+			 [longitude=174.8651323, latitude=-41.0807507, time=2013-04-26 18:06:02.0]
+, Location
+			 [longitude=174.8399975, latitude=-41.1371181, time=2013-04-26 18:22:45.0]
+, Location
+			 [longitude=174.8398966, latitude=-41.133081, time=2013-04-26 19:30:55.0]
+, Location
+			 [longitude=174.8426072, latitude=-41.1278545, time=2013-04-26 19:41:53.0]
+, Location
+			 [longitude=174.8396567, latitude=-41.1328311, time=2013-04-26 19:54:22.0]
+, Location
+			 [longitude=174.8664292, latitude=-41.084004, time=2013-04-26 20:05:18.0]
+, Location
+			 [longitude=174.844357, latitude=-41.1491501, time=2013-04-26 20:17:27.0]
+, Location
+			 [longitude=174.8631222, latitude=-41.1422659, time=2013-04-26 20:37:10.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-04-26 21:15:17.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422651, time=2013-04-26 22:02:59.0]
+, Location
+			 [longitude=174.8576747, latitude=-41.1344263, time=2013-04-26 22:23:00.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-26 23:14:45.0]
+, Location
+			 [longitude=174.8689143, latitude=-41.0944987, time=2013-04-26 23:35:04.0]
+, Location
+			 [longitude=174.8686233, latitude=-41.0890798, time=2013-04-26 23:46:42.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle]]]], ]
+Trip [trip=[Path [date=2013-04-27 02:02:36.0, TripFinished=true, locations=[Location
+			 [longitude=174.869092, latitude=-41.088952, time=2013-04-27 02:02:36.0]
+, Location
+			 [longitude=174.8686232, latitude=-41.0890806, time=2013-04-27 02:12:42.0]
+, Location
+			 [longitude=174.8641384, latitude=-41.1044463, time=2013-04-27 04:05:13.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-27 04:16:37.0]
+, Location
+			 [longitude=174.8576747, latitude=-41.1344263, time=2013-04-27 04:35:26.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-27 05:47:12.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-04-27 15:00:46.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-27 15:13:47.0]
+, Location
+			 [longitude=174.8576747, latitude=-41.1344263, time=2013-04-27 17:18:08.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-27 17:39:23.0]
+, Location
+			 [longitude=174.8576747, latitude=-41.1344263, time=2013-04-27 18:39:51.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-27 18:56:56.0]
+, Location
+			 [longitude=174.8576747, latitude=-41.1344263, time=2013-04-27 19:58:11.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-27 20:36:23.0]
+, Location
+			 [longitude=174.8576823, latitude=-41.1344294, time=2013-04-27 20:59:04.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-27 21:39:43.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-04-27 22:14:31.0]
+, Location
+			 [longitude=174.8576823, latitude=-41.1344294, time=2013-04-27 22:40:06.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-27 23:23:28.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-04-28 03:10:27.0, TripFinished=true, locations=[Location
+			 [longitude=174.8576823, latitude=-41.1344294, time=2013-04-28 03:10:27.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-28 04:29:44.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-04-28 14:08:24.0]
+, Location
+			 [longitude=174.8209284, latitude=-41.2020921, time=2013-04-28 14:18:34.0]
+, Location
+			 [longitude=174.7680761, latitude=-41.2884598, time=2013-04-28 14:30:31.0]
+, Location
+			 [longitude=174.8092356, latitude=-41.2490672, time=2013-04-28 14:45:48.0]
+, Location
+			 [longitude=174.7683745, latitude=-41.287345, time=2013-04-28 15:46:38.0]
+, Location
+			 [longitude=174.7676042, latitude=-41.2899508, time=2013-04-28 16:02:07.0]
+, Location
+			 [longitude=174.7683591, latitude=-41.2893937, time=2013-04-28 16:47:42.0]
+, Location
+			 [longitude=174.7687125, latitude=-41.2882668, time=2013-04-28 17:01:03.0]
+, Location
+			 [longitude=174.7680761, latitude=-41.2884598, time=2013-04-28 17:32:30.0]
+, Location
+			 [longitude=174.7683702, latitude=-41.2873423, time=2013-04-28 17:44:31.0]
+, Location
+			 [longitude=174.7679094, latitude=-41.2900996, time=2013-04-28 17:55:36.0]
+, Location
+			 [longitude=174.7781716, latitude=-41.2746254, time=2013-04-28 18:07:31.0]
+, Location
+			 [longitude=174.778546, latitude=-41.2759645, time=2013-04-28 18:18:15.0]
+, Location
+			 [longitude=174.777983, latitude=-41.2757545, time=2013-04-28 18:44:17.0]
+, Location
+			 [longitude=174.7785448, latitude=-41.2759722, time=2013-04-28 18:56:56.0]
+, Location
+			 [longitude=174.7663768, latitude=-41.2809814, time=2013-04-28 19:07:18.0]
+, Location
+			 [longitude=174.7676042, latitude=-41.2899508, time=2013-04-28 19:25:19.0]
+, Location
+			 [longitude=174.7680761, latitude=-41.2884598, time=2013-04-28 19:35:24.0]
+, Location
+			 [longitude=174.7679115, latitude=-41.2900474, time=2013-04-28 19:52:20.0]
+, Location
+			 [longitude=174.771229, latitude=-41.290781, time=2013-04-28 21:52:18.0]
+, Location
+			 [longitude=174.7796, latitude=-41.270431, time=2013-04-28 22:05:42.0]
+, Location
+			 [longitude=174.8481683, latitude=-41.1345582, time=2013-04-28 22:19:47.0]
+, Location
+			 [longitude=174.8576823, latitude=-41.1344294, time=2013-04-28 23:11:52.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-04-28 23:24:29.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-04-28 23:38:30.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-04-29 01:20:23.0, TripFinished=true, locations=[Location
+			 [longitude=174.8443505, latitude=-41.1491445, time=2013-04-29 01:20:23.0]
+, Location
+			 [longitude=174.8576823, latitude=-41.1344294, time=2013-04-29 01:35:01.0]
+, Location
+			 [longitude=174.8481683, latitude=-41.1345582, time=2013-04-29 01:54:16.0]
+, Location
+			 [longitude=174.8443482, latitude=-41.1491597, time=2013-04-29 02:20:45.0]
+, Location
+			 [longitude=174.8481683, latitude=-41.1345582, time=2013-04-29 02:41:22.0]
+, Location
+			 [longitude=174.8443482, latitude=-41.1491597, time=2013-04-29 03:21:30.0]
+, Location
+			 [longitude=174.8481683, latitude=-41.1345582, time=2013-04-29 03:35:07.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-04-29 03:45:08.0]
+, Location
+			 [longitude=174.8576823, latitude=-41.1344294, time=2013-04-29 04:02:16.0]
+, Location
+			 [longitude=174.8443505, latitude=-41.1491445, time=2013-04-29 06:09:18.0]
+, Location
+			 [longitude=174.8576791, latitude=-41.1344331, time=2013-04-29 11:29:50.0]
+, Location
+			 [longitude=174.8631207, latitude=-41.1422652, time=2013-04-29 15:50:26.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-04-29 17:37:44.0]
+, Location
+			 [longitude=174.8532358, latitude=-41.1393459, time=2013-04-29 17:48:00.0]
+, Location
+			 [longitude=174.8576791, latitude=-41.1344331, time=2013-04-29 18:00:05.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-04-29 18:22:11.0]
+, Location
+			 [longitude=174.8532904, latitude=-41.1386555, time=2013-04-29 23:07:55.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-04-29 23:58:33.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-04-30 00:10:08.0, TripFinished=true, locations=[Location
+			 [longitude=174.8576791, latitude=-41.1344331, time=2013-04-30 00:10:08.0]
+, Location
+			 [longitude=174.8394438, latitude=-41.1339163, time=2013-04-30 00:20:17.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-04-30 00:32:26.0]
+, Location
+			 [longitude=174.8487791, latitude=-41.1442381, time=2013-04-30 00:44:05.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-04-30 01:05:44.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-04-30 01:32:36.0]
+, Location
+			 [longitude=174.8443505, latitude=-41.1491445, time=2013-04-30 02:24:54.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-04-30 02:38:34.0]
+, Location
+			 [longitude=174.8561719, latitude=-41.1363473, time=2013-04-30 02:56:11.0]
+, Location
+			 [longitude=174.8532904, latitude=-41.1386555, time=2013-04-30 03:12:12.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-04-30 03:22:36.0]
+, Location
+			 [longitude=174.8576791, latitude=-41.1344331, time=2013-04-30 03:33:18.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-04-30 03:43:40.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-04-30 03:55:18.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-04-30 04:09:15.0]
+, Location
+			 [longitude=174.8576852, latitude=-41.1344293, time=2013-04-30 12:55:17.0]
+, Location
+			 [longitude=174.8317069, latitude=-41.1650684, time=2013-04-30 13:07:20.0]
+, Location
+			 [longitude=174.7973517, latitude=-41.2564497, time=2013-04-30 13:18:26.0]
+, Location
+			 [longitude=174.7680761, latitude=-41.2884598, time=2013-04-30 13:28:32.0]
+, Location
+			 [longitude=174.768375, latitude=-41.287344, time=2013-04-30 13:39:22.0]
+, Location
+			 [longitude=174.7798943, latitude=-41.2877289, time=2013-04-30 13:49:25.0]
+, Location
+			 [longitude=174.7765711, latitude=-41.2864433, time=2013-04-30 14:08:31.0]
+, Location
+			 [longitude=174.7690725, latitude=-41.288344, time=2013-04-30 14:26:52.0]
+, Location
+			 [longitude=174.7729898, latitude=-41.287491, time=2013-04-30 14:40:54.0]
+, Location
+			 [longitude=174.76908, latitude=-41.288341, time=2013-04-30 14:53:32.0]
+, Location
+			 [longitude=174.7680761, latitude=-41.2884598, time=2013-04-30 15:04:06.0]
+, Location
+			 [longitude=174.7678623, latitude=-41.2900301, time=2013-04-30 15:26:17.0]
+, Location
+			 [longitude=174.7691946, latitude=-41.2892907, time=2013-04-30 16:01:16.0]
+, Location
+			 [longitude=174.7687745, latitude=-41.2897482, time=2013-04-30 16:13:55.0]
+, Location
+			 [longitude=174.771229, latitude=-41.290781, time=2013-04-30 16:25:20.0]
+, Location
+			 [longitude=174.7676042, latitude=-41.2899508, time=2013-04-30 16:35:44.0]
+, Location
+			 [longitude=174.771229, latitude=-41.290781, time=2013-04-30 16:49:28.0]
+, Location
+			 [longitude=174.7579617, latitude=-41.2869879, time=2013-04-30 17:01:37.0]
+, Location
+			 [longitude=174.8272133, latitude=-41.1811626, time=2013-04-30 17:12:47.0]
+, Location
+			 [longitude=174.8641884, latitude=-41.1418323, time=2013-04-30 17:25:09.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-04-30 17:35:53.0]
+, Location
+			 [longitude=174.8631222, latitude=-41.1422646, time=2013-04-30 17:47:06.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-04-30 19:09:18.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-04-30 19:22:41.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-04-30 19:33:19.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-04-30 19:46:14.0]
+, Location
+			 [longitude=174.8605578, latitude=-41.1398431, time=2013-04-30 19:57:26.0]
+, Location
+			 [longitude=174.8396552, latitude=-41.1327809, time=2013-04-30 20:11:13.0]
+, Location
+			 [longitude=174.8403066, latitude=-41.1328851, time=2013-04-30 20:41:30.0]
+, Location
+			 [longitude=174.8398334, latitude=-41.1327649, time=2013-04-30 20:52:30.0]
+, Location
+			 [longitude=174.8416391, latitude=-41.1345371, time=2013-04-30 21:48:17.0]
+, Location
+			 [longitude=174.8112716, latitude=-41.2103491, time=2013-04-30 21:58:25.0]
+, Location
+			 [longitude=174.7578069, latitude=-41.2869815, time=2013-04-30 22:08:27.0]
+, Location
+			 [longitude=174.7679065, latitude=-41.2900597, time=2013-04-30 22:18:54.0]
+, Location
+			 [longitude=174.7680761, latitude=-41.2884598, time=2013-04-30 22:58:31.0]
+, Location
+			 [longitude=174.7678769, latitude=-41.2900926, time=2013-04-30 23:09:06.0]
+, Location
+			 [longitude=174.7680761, latitude=-41.2884598, time=2013-04-30 23:54:17.0]
+], Mode=[Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-01 00:04:33.0, TripFinished=true, locations=[Location
+			 [longitude=174.7678959, latitude=-41.2900681, time=2013-05-01 00:04:33.0]
+, Location
+			 [longitude=174.7680761, latitude=-41.2884598, time=2013-05-01 01:54:49.0]
+, Location
+			 [longitude=174.7679095, latitude=-41.2900687, time=2013-05-01 02:04:51.0]
+, Location
+			 [longitude=174.772934, latitude=-41.2869209, time=2013-05-01 02:17:53.0]
+, Location
+			 [longitude=174.8360583, latitude=-41.1609167, time=2013-05-01 02:29:11.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-01 02:46:20.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-01 03:11:47.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-01 03:23:27.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-05-01 04:02:41.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-01 04:13:15.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-05-01 04:24:03.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-01 04:35:03.0]
+, Location
+			 [longitude=174.8631204, latitude=-41.142264, time=2013-05-01 04:46:21.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-01 13:16:08.0]
+, Location
+			 [longitude=174.8080934, latitude=-41.2217014, time=2013-05-01 13:27:12.0]
+, Location
+			 [longitude=174.7736583, latitude=-41.285525, time=2013-05-01 13:37:20.0]
+, Location
+			 [longitude=174.768375, latitude=-41.287344, time=2013-05-01 13:53:02.0]
+, Location
+			 [longitude=174.7685967, latitude=-41.2883211, time=2013-05-01 14:05:23.0]
+, Location
+			 [longitude=174.7843026, latitude=-41.2667281, time=2013-05-01 14:15:34.0]
+, Location
+			 [longitude=174.8087366, latitude=-41.250292, time=2013-05-01 14:49:40.0]
+, Location
+			 [longitude=174.7680761, latitude=-41.2884598, time=2013-05-01 14:59:53.0]
+, Location
+			 [longitude=174.771229, latitude=-41.290781, time=2013-05-01 15:10:44.0]
+, Location
+			 [longitude=174.7675989, latitude=-41.2888408, time=2013-05-01 15:22:07.0]
+, Location
+			 [longitude=174.7683749, latitude=-41.2893671, time=2013-05-01 15:39:07.0]
+, Location
+			 [longitude=174.7680761, latitude=-41.2884598, time=2013-05-01 15:51:02.0]
+, Location
+			 [longitude=174.7684096, latitude=-41.2893594, time=2013-05-01 16:19:27.0]
+, Location
+			 [longitude=174.771229, latitude=-41.290781, time=2013-05-01 16:31:07.0]
+, Location
+			 [longitude=174.7675989, latitude=-41.2888408, time=2013-05-01 16:42:09.0]
+, Location
+			 [longitude=174.769297, latitude=-41.2887247, time=2013-05-01 16:58:42.0]
+, Location
+			 [longitude=174.7680761, latitude=-41.2884598, time=2013-05-01 17:09:41.0]
+, Location
+			 [longitude=174.767905, latitude=-41.2902725, time=2013-05-01 17:27:39.0]
+, Location
+			 [longitude=174.779601, latitude=-41.2931421, time=2013-05-01 17:59:21.0]
+, Location
+			 [longitude=174.7818129, latitude=-41.2904551, time=2013-05-01 18:09:49.0]
+, Location
+			 [longitude=174.7807209, latitude=-41.2928433, time=2013-05-01 18:22:45.0]
+, Location
+			 [longitude=174.779601, latitude=-41.2931421, time=2013-05-01 18:39:54.0]
+, Location
+			 [longitude=174.7782182, latitude=-41.2931686, time=2013-05-01 18:53:53.0]
+, Location
+			 [longitude=174.7685208, latitude=-41.2897605, time=2013-05-01 19:05:10.0]
+, Location
+			 [longitude=174.789624, latitude=-41.2625021, time=2013-05-01 19:16:09.0]
+, Location
+			 [longitude=174.8065443, latitude=-41.2232774, time=2013-05-01 19:26:16.0]
+, Location
+			 [longitude=174.8062043, latitude=-41.2241529, time=2013-05-01 19:41:49.0]
+, Location
+			 [longitude=174.8317222, latitude=-41.1650459, time=2013-05-01 19:52:53.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-01 20:14:38.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-01 20:25:17.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-01 20:44:01.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-01 22:15:41.0]
+, Location
+			 [longitude=174.8631207, latitude=-41.1422657, time=2013-05-01 22:27:29.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-01 22:49:31.0]
+, Location
+			 [longitude=174.867556, latitude=-41.0885914, time=2013-05-01 23:02:35.0]
+, Location
+			 [longitude=174.865114, latitude=-41.081499, time=2013-05-01 23:13:18.0]
+, Location
+			 [longitude=174.8651597, latitude=-41.0807484, time=2013-05-01 23:24:33.0]
+, Location
+			 [longitude=174.865114, latitude=-41.081499, time=2013-05-01 23:36:40.0]
+, Location
+			 [longitude=174.865176, latitude=-41.0807495, time=2013-05-01 23:48:43.0]
+, Location
+			 [longitude=174.865114, latitude=-41.081499, time=2013-05-01 23:58:51.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-02 00:14:57.0, TripFinished=true, locations=[Location
+			 [longitude=174.8652012, latitude=-41.0807488, time=2013-05-02 00:14:57.0]
+, Location
+			 [longitude=174.865114, latitude=-41.081499, time=2013-05-02 00:27:09.0]
+, Location
+			 [longitude=174.865205, latitude=-41.0807483, time=2013-05-02 00:38:15.0]
+, Location
+			 [longitude=174.865114, latitude=-41.081499, time=2013-05-02 00:49:22.0]
+, Location
+			 [longitude=174.8651779, latitude=-41.0808015, time=2013-05-02 01:02:23.0]
+, Location
+			 [longitude=174.865114, latitude=-41.081499, time=2013-05-02 01:12:25.0]
+, Location
+			 [longitude=174.8652727, latitude=-41.0808077, time=2013-05-02 01:32:34.0]
+, Location
+			 [longitude=174.8668865, latitude=-41.0838812, time=2013-05-02 01:43:55.0]
+, Location
+			 [longitude=174.8631222, latitude=-41.1422646, time=2013-05-02 01:59:20.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-02 02:26:02.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-02 02:52:43.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-02 03:08:28.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-05-02 03:22:38.0]
+, Location
+			 [longitude=174.8631222, latitude=-41.1422659, time=2013-05-02 03:33:18.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-02 04:08:34.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-02 04:40:57.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-02 04:51:36.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-02 05:01:48.0]
+, Location
+			 [longitude=174.8615072, latitude=-41.1399181, time=2013-05-02 07:24:58.0]
+, Location
+			 [longitude=174.8631207, latitude=-41.1422652, time=2013-05-02 07:35:08.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-02 07:46:06.0]
+, Location
+			 [longitude=174.8638555, latitude=-41.1432209, time=2013-05-02 08:12:13.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-02 08:22:20.0]
+, Location
+			 [longitude=174.8638298, latitude=-41.1432372, time=2013-05-02 08:33:41.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-02 08:44:20.0]
+, Location
+			 [longitude=174.8638555, latitude=-41.1432209, time=2013-05-02 09:01:21.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-02 09:11:28.0]
+, Location
+			 [longitude=174.8638298, latitude=-41.1432372, time=2013-05-02 09:24:28.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-02 09:34:53.0]
+, Location
+			 [longitude=174.8638298, latitude=-41.1432372, time=2013-05-02 09:47:36.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-02 09:57:39.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-02 10:08:24.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-02 10:18:28.0]
+, Location
+			 [longitude=174.8613227, latitude=-41.1391672, time=2013-05-02 10:28:32.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-02 10:39:33.0]
+, Location
+			 [longitude=174.8638555, latitude=-41.1432209, time=2013-05-02 11:04:33.0]
+, Location
+			 [longitude=174.8493727, latitude=-41.1444424, time=2013-05-02 11:17:36.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-05-02 11:27:38.0]
+, Location
+			 [longitude=174.8631212, latitude=-41.1422632, time=2013-05-02 11:38:33.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-02 11:49:32.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-02 12:02:02.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-05-02 12:13:43.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-02 12:26:43.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-02 12:37:04.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-05-02 13:09:05.0]
+, Location
+			 [longitude=174.863121, latitude=-41.1422655, time=2013-05-02 13:31:47.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-05-02 14:08:10.0]
+, Location
+			 [longitude=174.8576898, latitude=-41.1344367, time=2013-05-02 14:19:15.0]
+, Location
+			 [longitude=174.8080934, latitude=-41.2217014, time=2013-05-02 14:29:22.0]
+, Location
+			 [longitude=174.7640528, latitude=-41.2888369, time=2013-05-02 14:39:28.0]
+, Location
+			 [longitude=174.766952, latitude=-41.2942019, time=2013-05-02 14:54:34.0]
+, Location
+			 [longitude=174.7696695, latitude=-41.2969637, time=2013-05-02 15:04:48.0]
+, Location
+			 [longitude=174.7661393, latitude=-41.2942428, time=2013-05-02 15:15:59.0]
+, Location
+			 [longitude=174.771229, latitude=-41.290781, time=2013-05-02 15:28:01.0]
+, Location
+			 [longitude=174.7696695, latitude=-41.2969637, time=2013-05-02 15:38:02.0]
+, Location
+			 [longitude=174.7661393, latitude=-41.2942428, time=2013-05-02 16:04:12.0]
+, Location
+			 [longitude=174.7680203, latitude=-41.2939576, time=2013-05-02 16:14:38.0]
+, Location
+			 [longitude=174.766952, latitude=-41.2942019, time=2013-05-02 16:24:39.0]
+, Location
+			 [longitude=174.76647, latitude=-41.2932739, time=2013-05-02 16:39:58.0]
+, Location
+			 [longitude=174.7696695, latitude=-41.2969637, time=2013-05-02 16:50:40.0]
+, Location
+			 [longitude=174.771229, latitude=-41.290781, time=2013-05-02 17:03:34.0]
+, Location
+			 [longitude=174.7696695, latitude=-41.2969637, time=2013-05-02 17:15:06.0]
+, Location
+			 [longitude=174.76633, latitude=-41.2920711, time=2013-05-02 17:27:44.0]
+, Location
+			 [longitude=174.7675989, latitude=-41.2888408, time=2013-05-02 17:40:50.0]
+, Location
+			 [longitude=174.782571, latitude=-41.2942824, time=2013-05-02 17:51:31.0]
+, Location
+			 [longitude=174.7682001, latitude=-41.2878732, time=2013-05-02 18:03:33.0]
+, Location
+			 [longitude=174.8283185, latitude=-41.238281, time=2013-05-02 18:13:38.0]
+, Location
+			 [longitude=174.7782182, latitude=-41.2931686, time=2013-05-02 18:23:42.0]
+, Location
+			 [longitude=174.7682001, latitude=-41.2878732, time=2013-05-02 18:33:43.0]
+, Location
+			 [longitude=174.7882219, latitude=-41.2771014, time=2013-05-02 20:05:15.0]
+, Location
+			 [longitude=174.8272146, latitude=-41.1811602, time=2013-05-02 20:15:17.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-02 21:40:02.0]
+, Location
+			 [longitude=174.8404371, latitude=-41.138359, time=2013-05-02 21:50:09.0]
+, Location
+			 [longitude=174.8393284, latitude=-41.1289629, time=2013-05-02 22:03:08.0]
+, Location
+			 [longitude=174.8406211, latitude=-41.1360322, time=2013-05-02 22:19:12.0]
+, Location
+			 [longitude=174.8394996, latitude=-41.1351283, time=2013-05-02 22:33:04.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-02 22:44:03.0]
+, Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-05-02 22:56:26.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-02 23:10:48.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-03 00:49:19.0, TripFinished=true, locations=[Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-03 00:49:19.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-03 01:03:41.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-03 01:46:28.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-03 02:52:40.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-03 04:06:38.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-03 04:21:21.0]
+, Location
+			 [longitude=174.8576698, latitude=-41.1344197, time=2013-05-03 04:41:03.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-03 04:52:24.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-03 15:21:49.0]
+, Location
+			 [longitude=174.8331887, latitude=-41.1492378, time=2013-05-03 15:33:52.0]
+, Location
+			 [longitude=174.8195743, latitude=-41.1576035, time=2013-05-03 15:44:59.0]
+, Location
+			 [longitude=174.841794, latitude=-41.138841, time=2013-05-03 15:56:05.0]
+, Location
+			 [longitude=174.8364173, latitude=-41.1365769, time=2013-05-03 16:09:01.0]
+, Location
+			 [longitude=174.8398671, latitude=-41.1311948, time=2013-05-03 16:20:05.0]
+, Location
+			 [longitude=174.8641245, latitude=-41.1044763, time=2013-05-03 18:10:42.0]
+, Location
+			 [longitude=174.8848214, latitude=-41.1042121, time=2013-05-03 18:22:49.0]
+, Location
+			 [longitude=174.916253, latitude=-41.1059523, time=2013-05-03 18:34:52.0]
+, Location
+			 [longitude=174.9074475, latitude=-41.1056576, time=2013-05-03 18:45:47.0]
+, Location
+			 [longitude=174.898041, latitude=-41.1035153, time=2013-05-03 19:00:50.0]
+, Location
+			 [longitude=174.915281, latitude=-41.1074828, time=2013-05-03 19:18:45.0]
+, Location
+			 [longitude=174.869558, latitude=-41.0859961, time=2013-05-03 19:29:04.0]
+, Location
+			 [longitude=174.8641245, latitude=-41.1044763, time=2013-05-03 19:40:05.0]
+, Location
+			 [longitude=174.8373675, latitude=-41.1311118, time=2013-05-03 19:50:12.0]
+, Location
+			 [longitude=174.8377733, latitude=-41.1300669, time=2013-05-03 20:02:32.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-03 20:21:43.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-04 03:43:22.0, TripFinished=true, locations=[Location
+			 [longitude=174.8510159, latitude=-41.1417882, time=2013-05-04 03:43:22.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-04 04:02:37.0]
+, Location
+			 [longitude=174.8577065, latitude=-41.1344415, time=2013-05-04 14:08:32.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-04 14:18:46.0]
+, Location
+			 [longitude=174.8577065, latitude=-41.1344415, time=2013-05-04 15:52:35.0]
+, Location
+			 [longitude=174.8488005, latitude=-41.1442691, time=2013-05-04 16:02:36.0]
+, Location
+			 [longitude=174.864572, latitude=-41.1403863, time=2013-05-04 16:13:37.0]
+, Location
+			 [longitude=174.8263949, latitude=-41.1946401, time=2013-05-04 16:24:06.0]
+, Location
+			 [longitude=174.7680279, latitude=-41.2885718, time=2013-05-04 16:35:03.0]
+, Location
+			 [longitude=174.767877, latitude=-41.2902533, time=2013-05-04 16:57:33.0]
+, Location
+			 [longitude=174.7682001, latitude=-41.2878732, time=2013-05-04 17:59:18.0]
+, Location
+			 [longitude=174.767889, latitude=-41.2902411, time=2013-05-04 18:10:57.0]
+, Location
+			 [longitude=174.782571, latitude=-41.2942824, time=2013-05-04 19:13:37.0]
+, Location
+			 [longitude=174.7678871, latitude=-41.2902291, time=2013-05-04 19:42:15.0]
+, Location
+			 [longitude=174.7743531, latitude=-41.2935896, time=2013-05-04 20:06:14.0]
+, Location
+			 [longitude=174.7678843, latitude=-41.2902486, time=2013-05-04 20:17:48.0]
+, Location
+			 [longitude=174.7743531, latitude=-41.2935896, time=2013-05-04 21:03:50.0]
+, Location
+			 [longitude=174.7681768, latitude=-41.2904475, time=2013-05-04 21:14:28.0]
+, Location
+			 [longitude=174.7682001, latitude=-41.2878732, time=2013-05-04 21:25:27.0]
+, Location
+			 [longitude=174.7678996, latitude=-41.2902572, time=2013-05-04 21:44:41.0]
+, Location
+			 [longitude=174.7687557, latitude=-41.289639, time=2013-05-04 23:49:02.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-05 00:01:07.0, TripFinished=true, locations=[Location
+			 [longitude=174.8089111, latitude=-41.2269639, time=2013-05-05 00:01:07.0]
+, Location
+			 [longitude=174.8631203, latitude=-41.1422649, time=2013-05-05 00:12:13.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-05 04:47:52.0]
+, Location
+			 [longitude=174.8532579, latitude=-41.1393638, time=2013-05-05 04:57:54.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-05 05:08:02.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-05 06:01:29.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-05 07:29:12.0]
+, Location
+			 [longitude=174.8631246, latitude=-41.1422646, time=2013-05-05 08:06:13.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-05 11:57:52.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-05 12:16:49.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-05 13:27:19.0]
+, Location
+			 [longitude=174.8631246, latitude=-41.1422646, time=2013-05-05 13:37:21.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-05 13:48:57.0]
+, Location
+			 [longitude=174.8443651, latitude=-41.1448073, time=2013-05-05 13:58:59.0]
+, Location
+			 [longitude=174.8126919, latitude=-41.2427589, time=2013-05-05 14:09:22.0]
+, Location
+			 [longitude=174.7778754, latitude=-41.272629, time=2013-05-05 14:21:18.0]
+, Location
+			 [longitude=174.7679044, latitude=-41.2900714, time=2013-05-05 14:44:14.0]
+, Location
+			 [longitude=174.7682001, latitude=-41.2878732, time=2013-05-05 14:57:56.0]
+, Location
+			 [longitude=174.7675989, latitude=-41.2888408, time=2013-05-05 15:13:14.0]
+, Location
+			 [longitude=174.7683764, latitude=-41.2873437, time=2013-05-05 15:23:16.0]
+, Location
+			 [longitude=174.7675989, latitude=-41.2888408, time=2013-05-05 15:42:08.0]
+, Location
+			 [longitude=174.7684686, latitude=-41.28858, time=2013-05-05 15:53:42.0]
+, Location
+			 [longitude=174.7678893, latitude=-41.2902371, time=2013-05-05 16:07:37.0]
+, Location
+			 [longitude=174.7681464, latitude=-41.2885009, time=2013-05-05 16:47:28.0]
+, Location
+			 [longitude=174.7682001, latitude=-41.2878732, time=2013-05-05 17:33:40.0]
+, Location
+			 [longitude=174.7683764, latitude=-41.2873437, time=2013-05-05 17:56:46.0]
+, Location
+			 [longitude=174.7712814, latitude=-41.2906041, time=2013-05-05 18:11:52.0]
+, Location
+			 [longitude=174.7672528, latitude=-41.2803672, time=2013-05-05 18:23:10.0]
+, Location
+			 [longitude=174.8374327, latitude=-41.1680386, time=2013-05-05 18:33:20.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-05 18:43:29.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-05 19:14:04.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-05 21:06:29.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-05-05 21:16:56.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-05 22:39:26.0]
+, Location
+			 [longitude=174.8631246, latitude=-41.1422646, time=2013-05-05 22:49:43.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-06 01:49:40.0, TripFinished=true, locations=[Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-06 01:49:40.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-06 02:23:12.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-06 02:35:47.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-06 03:27:28.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-06 13:11:24.0]
+, Location
+			 [longitude=174.8387446, latitude=-41.1427683, time=2013-05-06 13:22:28.0]
+, Location
+			 [longitude=174.8058706, latitude=-41.252837, time=2013-05-06 13:34:40.0]
+, Location
+			 [longitude=174.761334, latitude=-41.2874476, time=2013-05-06 13:44:50.0]
+, Location
+			 [longitude=174.772769, latitude=-41.2859239, time=2013-05-06 14:09:12.0]
+, Location
+			 [longitude=174.772063, latitude=-41.288627, time=2013-05-06 14:20:12.0]
+, Location
+			 [longitude=174.7690772, latitude=-41.288348, time=2013-05-06 14:31:55.0]
+, Location
+			 [longitude=174.8487907, latitude=-41.2327976, time=2013-05-06 14:44:44.0]
+, Location
+			 [longitude=174.7690713, latitude=-41.2883459, time=2013-05-06 14:56:32.0]
+, Location
+			 [longitude=174.7712814, latitude=-41.2906041, time=2013-05-06 15:06:34.0]
+, Location
+			 [longitude=174.782571, latitude=-41.2942824, time=2013-05-06 15:18:34.0]
+, Location
+			 [longitude=174.7743531, latitude=-41.2935896, time=2013-05-06 15:33:19.0]
+, Location
+			 [longitude=174.7764436, latitude=-41.290856, time=2013-05-06 15:43:22.0]
+, Location
+			 [longitude=174.782571, latitude=-41.2942824, time=2013-05-06 15:54:22.0]
+, Location
+			 [longitude=174.7682001, latitude=-41.2878732, time=2013-05-06 16:05:03.0]
+, Location
+			 [longitude=174.7684868, latitude=-41.2894964, time=2013-05-06 16:17:52.0]
+, Location
+			 [longitude=174.7682001, latitude=-41.2878732, time=2013-05-06 16:28:48.0]
+, Location
+			 [longitude=174.7681279, latitude=-41.2899372, time=2013-05-06 16:49:34.0]
+, Location
+			 [longitude=174.7684968, latitude=-41.2889132, time=2013-05-06 17:49:02.0]
+, Location
+			 [longitude=174.7679657, latitude=-41.2901943, time=2013-05-06 17:59:08.0]
+, Location
+			 [longitude=174.7743531, latitude=-41.2935896, time=2013-05-06 18:11:29.0]
+, Location
+			 [longitude=174.7702049, latitude=-41.290255, time=2013-05-06 18:23:29.0]
+, Location
+			 [longitude=174.7682001, latitude=-41.2878732, time=2013-05-06 18:34:57.0]
+, Location
+			 [longitude=174.7957855, latitude=-41.2570079, time=2013-05-06 20:11:07.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-06 20:23:26.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-06 23:34:29.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle]]]], ]
+Trip [trip=[Path [date=2013-05-07 02:52:05.0, TripFinished=true, locations=[Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-07 02:52:05.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-07 12:27:25.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-07 13:00:07.0]
+, Location
+			 [longitude=174.8631246, latitude=-41.1422646, time=2013-05-07 13:12:54.0]
+, Location
+			 [longitude=174.844348, latitude=-41.1491873, time=2013-05-07 15:08:07.0]
+, Location
+			 [longitude=174.8387446, latitude=-41.1427683, time=2013-05-07 15:19:51.0]
+, Location
+			 [longitude=174.7731855, latitude=-41.2866512, time=2013-05-07 15:30:09.0]
+, Location
+			 [longitude=174.7679025, latitude=-41.2900518, time=2013-05-07 15:41:49.0]
+, Location
+			 [longitude=174.7682001, latitude=-41.2878732, time=2013-05-07 16:51:00.0]
+, Location
+			 [longitude=174.7717223, latitude=-41.282959, time=2013-05-07 17:53:46.0]
+, Location
+			 [longitude=174.7781916, latitude=-41.274645, time=2013-05-07 18:05:11.0]
+, Location
+			 [longitude=174.8305231, latitude=-41.1868828, time=2013-05-07 18:35:06.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-07 18:48:27.0]
+, Location
+			 [longitude=174.8577162, latitude=-41.1344628, time=2013-05-07 19:04:56.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-07 19:40:32.0]
+, Location
+			 [longitude=174.8577162, latitude=-41.1344628, time=2013-05-07 21:34:51.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-07 22:24:16.0]
+, Location
+			 [longitude=174.8577162, latitude=-41.1344628, time=2013-05-07 22:58:05.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-05-07 23:09:14.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-07 23:46:40.0]
+, Location
+			 [longitude=174.8076677, latitude=-41.2290093, time=2013-05-07 23:56:51.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-08 00:07:22.0, TripFinished=true, locations=[Location
+			 [longitude=174.7781395, latitude=-41.2747071, time=2013-05-08 00:07:22.0]
+, Location
+			 [longitude=174.8255891, latitude=-41.1757654, time=2013-05-08 00:19:42.0]
+, Location
+			 [longitude=174.8372256, latitude=-41.129959, time=2013-05-08 00:29:44.0]
+, Location
+			 [longitude=174.8401855, latitude=-41.1371195, time=2013-05-08 01:26:10.0]
+, Location
+			 [longitude=174.8646194, latitude=-41.1404891, time=2013-05-08 01:36:28.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-08 02:06:03.0]
+, Location
+			 [longitude=174.8530813, latitude=-41.1370335, time=2013-05-08 07:25:26.0]
+, Location
+			 [longitude=174.8577162, latitude=-41.1344628, time=2013-05-08 08:11:44.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-08 08:29:49.0]
+, Location
+			 [longitude=174.8577162, latitude=-41.1344628, time=2013-05-08 13:22:32.0]
+, Location
+			 [longitude=174.8077091, latitude=-41.2256203, time=2013-05-08 13:32:38.0]
+, Location
+			 [longitude=174.7726389, latitude=-41.2851212, time=2013-05-08 13:42:44.0]
+, Location
+			 [longitude=174.7734757, latitude=-41.2842359, time=2013-05-08 14:20:02.0]
+, Location
+			 [longitude=174.8283162, latitude=-41.2382834, time=2013-05-08 14:51:56.0]
+, Location
+			 [longitude=174.7680282, latitude=-41.2883553, time=2013-05-08 15:05:11.0]
+, Location
+			 [longitude=174.7682001, latitude=-41.2878732, time=2013-05-08 15:15:16.0]
+, Location
+			 [longitude=174.7679106, latitude=-41.2902755, time=2013-05-08 15:49:03.0]
+, Location
+			 [longitude=174.7682001, latitude=-41.2878732, time=2013-05-08 16:54:07.0]
+, Location
+			 [longitude=174.7681768, latitude=-41.2904475, time=2013-05-08 17:04:14.0]
+, Location
+			 [longitude=174.7682001, latitude=-41.2878732, time=2013-05-08 17:51:23.0]
+, Location
+			 [longitude=174.7690323, latitude=-41.2894381, time=2013-05-08 18:03:45.0]
+, Location
+			 [longitude=174.7682001, latitude=-41.2878732, time=2013-05-08 18:14:39.0]
+, Location
+			 [longitude=174.7702049, latitude=-41.290255, time=2013-05-08 18:29:12.0]
+, Location
+			 [longitude=174.7682001, latitude=-41.2878732, time=2013-05-08 18:39:13.0]
+, Location
+			 [longitude=174.7678864, latitude=-41.2902524, time=2013-05-08 18:58:24.0]
+, Location
+			 [longitude=174.7658934, latitude=-41.2875324, time=2013-05-08 21:15:46.0]
+, Location
+			 [longitude=174.8154748, latitude=-41.2095171, time=2013-05-08 21:30:02.0]
+, Location
+			 [longitude=174.8393319, latitude=-41.1289719, time=2013-05-08 21:42:14.0]
+, Location
+			 [longitude=174.8391381, latitude=-41.1298915, time=2013-05-08 21:52:32.0]
+, Location
+			 [longitude=174.841608, latitude=-41.127928, time=2013-05-08 22:04:30.0]
+, Location
+			 [longitude=174.8401722, latitude=-41.1371692, time=2013-05-08 22:15:00.0]
+, Location
+			 [longitude=174.8416933, latitude=-41.137199, time=2013-05-08 22:32:34.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-08 23:30:11.0]
+], Mode=[Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-09 01:01:31.0, TripFinished=true, locations=[Location
+			 [longitude=174.8443331, latitude=-41.1492236, time=2013-05-09 01:01:31.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-09 01:19:36.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-09 03:58:56.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-09 04:29:26.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-09 04:40:25.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-09 04:52:25.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-09 05:56:49.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-09 06:10:31.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-09 06:25:32.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-09 06:36:32.0]
+, Location
+			 [longitude=174.8631208, latitude=-41.1422648, time=2013-05-09 07:07:11.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-09 07:21:10.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-09 07:48:11.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-09 07:59:11.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-09 08:35:01.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-09 09:07:49.0]
+, Location
+			 [longitude=174.863121, latitude=-41.1422655, time=2013-05-09 09:37:09.0]
+, Location
+			 [longitude=174.8576996, latitude=-41.1344799, time=2013-05-09 10:56:10.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-09 11:06:58.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-09 12:14:30.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-09 12:35:02.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-09 13:38:51.0]
+, Location
+			 [longitude=174.8645263, latitude=-41.1404218, time=2013-05-09 13:51:16.0]
+, Location
+			 [longitude=174.812181, latitude=-41.2169286, time=2013-05-09 14:01:27.0]
+, Location
+			 [longitude=174.7713229, latitude=-41.2900425, time=2013-05-09 14:11:37.0]
+, Location
+			 [longitude=174.7741949, latitude=-41.2958568, time=2013-05-09 14:24:38.0]
+, Location
+			 [longitude=174.774586, latitude=-41.295508, time=2013-05-09 14:37:46.0]
+, Location
+			 [longitude=174.7752548, latitude=-41.2961032, time=2013-05-09 14:48:47.0]
+, Location
+			 [longitude=174.7756251, latitude=-41.2964401, time=2013-05-09 15:03:14.0]
+, Location
+			 [longitude=174.7752659, latitude=-41.2961229, time=2013-05-09 15:20:46.0]
+, Location
+			 [longitude=174.7756251, latitude=-41.2964401, time=2013-05-09 15:44:47.0]
+, Location
+			 [longitude=174.7741949, latitude=-41.2958568, time=2013-05-09 15:56:29.0]
+, Location
+			 [longitude=174.774586, latitude=-41.295508, time=2013-05-09 16:11:41.0]
+, Location
+			 [longitude=174.7741945, latitude=-41.2958461, time=2013-05-09 16:30:23.0]
+, Location
+			 [longitude=174.7714154, latitude=-41.2946211, time=2013-05-09 16:41:33.0]
+, Location
+			 [longitude=174.7679452, latitude=-41.2901909, time=2013-05-09 16:51:36.0]
+, Location
+			 [longitude=174.7681464, latitude=-41.2883072, time=2013-05-09 17:19:11.0]
+, Location
+			 [longitude=174.8494483, latitude=-41.2276631, time=2013-05-09 17:34:58.0]
+, Location
+			 [longitude=174.8283162, latitude=-41.2382834, time=2013-05-09 17:45:13.0]
+, Location
+			 [longitude=174.7681768, latitude=-41.2904475, time=2013-05-09 17:59:19.0]
+, Location
+			 [longitude=174.7681964, latitude=-41.2883921, time=2013-05-09 19:02:06.0]
+, Location
+			 [longitude=174.8292832, latitude=-41.1887636, time=2013-05-09 19:12:19.0]
+, Location
+			 [longitude=174.863121, latitude=-41.1422655, time=2013-05-09 19:23:13.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-09 19:33:14.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-09 19:45:23.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-09 19:59:42.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-09 20:10:47.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-09 20:20:53.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-09 20:48:34.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-09 21:00:18.0]
+, Location
+			 [longitude=174.863121, latitude=-41.1422648, time=2013-05-09 21:23:42.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-09 21:34:43.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-09 21:49:50.0]
+, Location
+			 [longitude=174.8631233, latitude=-41.1422633, time=2013-05-09 22:06:44.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-09 22:39:56.0]
+, Location
+			 [longitude=174.8404859, latitude=-41.1359497, time=2013-05-09 22:49:59.0]
+, Location
+			 [longitude=174.8076744, latitude=-41.229011, time=2013-05-09 23:01:31.0]
+, Location
+			 [longitude=174.778395, latitude=-41.2747811, time=2013-05-09 23:11:42.0]
+, Location
+			 [longitude=174.8130166, latitude=-41.2117376, time=2013-05-09 23:23:35.0]
+, Location
+			 [longitude=174.8419313, latitude=-41.1365578, time=2013-05-09 23:35:40.0]
+, Location
+			 [longitude=174.8466862, latitude=-41.1410091, time=2013-05-09 23:48:44.0]
+, Location
+			 [longitude=174.874796, latitude=-41.0917304, time=2013-05-09 23:58:48.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-10 00:33:07.0, TripFinished=true, locations=[Location
+			 [longitude=174.8810543, latitude=-41.107081, time=2013-05-10 00:33:07.0]
+, Location
+			 [longitude=174.8747368, latitude=-41.0915374, time=2013-05-10 00:44:21.0]
+, Location
+			 [longitude=174.8810369, latitude=-41.1070769, time=2013-05-10 01:04:24.0]
+, Location
+			 [longitude=174.8886662, latitude=-41.1013738, time=2013-05-10 01:45:31.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-10 01:57:22.0]
+, Location
+			 [longitude=174.8576943, latitude=-41.1344789, time=2013-05-10 02:24:32.0]
+, Location
+			 [longitude=174.8532579, latitude=-41.1393638, time=2013-05-10 02:34:42.0]
+, Location
+			 [longitude=174.8576942, latitude=-41.1344382, time=2013-05-10 02:44:53.0]
+, Location
+			 [longitude=174.8443285, latitude=-41.1492266, time=2013-05-10 15:01:10.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-10 15:16:53.0]
+, Location
+			 [longitude=174.871329, latitude=-41.1365708, time=2013-05-10 15:38:16.0]
+, Location
+			 [longitude=174.903663, latitude=-41.112899, time=2013-05-10 15:48:22.0]
+, Location
+			 [longitude=174.9234473, latitude=-41.1940875, time=2013-05-10 15:59:47.0]
+, Location
+			 [longitude=174.9088047, latitude=-41.2058674, time=2013-05-10 16:10:35.0]
+, Location
+			 [longitude=174.8996153, latitude=-41.209942, time=2013-05-10 16:20:42.0]
+, Location
+			 [longitude=174.8976042, latitude=-41.2108097, time=2013-05-10 16:30:44.0]
+, Location
+			 [longitude=174.898419, latitude=-41.2096946, time=2013-05-10 16:49:54.0]
+, Location
+			 [longitude=174.8902113, latitude=-41.2162936, time=2013-05-10 17:00:50.0]
+, Location
+			 [longitude=174.8721857, latitude=-41.2218562, time=2013-05-10 17:23:38.0]
+, Location
+			 [longitude=174.8292841, latitude=-41.1887538, time=2013-05-10 17:34:58.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-10 17:45:08.0]
+, Location
+			 [longitude=174.8576943, latitude=-41.1344789, time=2013-05-10 18:28:36.0]
+, Location
+			 [longitude=174.8466968, latitude=-41.141036, time=2013-05-10 18:38:51.0]
+, Location
+			 [longitude=174.8576943, latitude=-41.1344789, time=2013-05-10 18:55:56.0]
+, Location
+			 [longitude=174.8443285, latitude=-41.1492266, time=2013-05-10 19:45:13.0]
+, Location
+			 [longitude=174.8466968, latitude=-41.141036, time=2013-05-10 19:58:24.0]
+, Location
+			 [longitude=174.8455179, latitude=-41.1451371, time=2013-05-10 20:21:41.0]
+, Location
+			 [longitude=174.8466968, latitude=-41.141036, time=2013-05-10 20:31:52.0]
+, Location
+			 [longitude=174.8576943, latitude=-41.1344789, time=2013-05-10 21:32:41.0]
+, Location
+			 [longitude=174.8443285, latitude=-41.1492266, time=2013-05-10 21:47:54.0]
+, Location
+			 [longitude=174.8576943, latitude=-41.1344789, time=2013-05-10 22:13:21.0]
+, Location
+			 [longitude=174.863866, latitude=-41.143226, time=2013-05-10 23:22:11.0]
+, Location
+			 [longitude=174.8576943, latitude=-41.1344789, time=2013-05-10 23:34:12.0]
+, Location
+			 [longitude=174.8455179, latitude=-41.1451371, time=2013-05-10 23:47:15.0]
+, Location
+			 [longitude=174.8466968, latitude=-41.141036, time=2013-05-10 23:57:30.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle]]]], ]
+Trip [trip=[Path [date=2013-05-11 00:13:42.0, TripFinished=true, locations=[Location
+			 [longitude=174.8576943, latitude=-41.1344789, time=2013-05-11 00:13:42.0]
+, Location
+			 [longitude=174.863866, latitude=-41.143226, time=2013-05-11 00:25:55.0]
+, Location
+			 [longitude=174.860791, latitude=-41.1388395, time=2013-05-11 01:21:29.0]
+, Location
+			 [longitude=174.8576943, latitude=-41.1344789, time=2013-05-11 01:37:14.0]
+, Location
+			 [longitude=174.8510269, latitude=-41.1418123, time=2013-05-11 02:09:07.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-05-11 02:19:56.0]
+, Location
+			 [longitude=174.8576943, latitude=-41.1344789, time=2013-05-11 03:24:39.0]
+, Location
+			 [longitude=174.8631246, latitude=-41.1422646, time=2013-05-11 03:34:45.0]
+, Location
+			 [longitude=174.8576856, latitude=-41.1344901, time=2013-05-11 14:22:16.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-11 15:21:15.0]
+, Location
+			 [longitude=174.8493644, latitude=-41.1444485, time=2013-05-11 17:02:20.0]
+, Location
+			 [longitude=174.8421845, latitude=-41.1275575, time=2013-05-11 17:13:25.0]
+, Location
+			 [longitude=174.8652477, latitude=-41.0807816, time=2013-05-11 17:25:33.0]
+, Location
+			 [longitude=174.8716252, latitude=-41.0743255, time=2013-05-11 17:43:37.0]
+, Location
+			 [longitude=174.8651196, latitude=-41.080703, time=2013-05-11 17:56:50.0]
+, Location
+			 [longitude=174.8716252, latitude=-41.0743255, time=2013-05-11 18:09:35.0]
+, Location
+			 [longitude=174.8954142, latitude=-41.0308105, time=2013-05-11 18:20:40.0]
+, Location
+			 [longitude=174.9591558, latitude=-40.9839687, time=2013-05-11 18:30:41.0]
+, Location
+			 [longitude=174.8954142, latitude=-41.0308105, time=2013-05-11 18:42:01.0]
+, Location
+			 [longitude=174.9379085, latitude=-40.9995825, time=2013-05-11 18:56:45.0]
+, Location
+			 [longitude=174.927285, latitude=-41.0073895, time=2013-05-11 19:07:46.0]
+, Location
+			 [longitude=174.8954142, latitude=-41.0308105, time=2013-05-11 19:18:53.0]
+, Location
+			 [longitude=174.927285, latitude=-41.0073895, time=2013-05-11 19:29:26.0]
+, Location
+			 [longitude=174.9591558, latitude=-40.9839687, time=2013-05-11 19:42:04.0]
+, Location
+			 [longitude=174.8954142, latitude=-41.0308105, time=2013-05-11 19:54:10.0]
+, Location
+			 [longitude=174.9591558, latitude=-40.9839687, time=2013-05-11 20:05:48.0]
+, Location
+			 [longitude=174.8954142, latitude=-41.0308105, time=2013-05-11 20:22:48.0]
+, Location
+			 [longitude=174.927285, latitude=-41.0073895, time=2013-05-11 20:36:17.0]
+, Location
+			 [longitude=174.9591558, latitude=-40.9839687, time=2013-05-11 21:07:14.0]
+, Location
+			 [longitude=174.9425412, latitude=-40.9965594, time=2013-05-11 21:18:14.0]
+, Location
+			 [longitude=174.8954142, latitude=-41.0308105, time=2013-05-11 21:30:04.0]
+, Location
+			 [longitude=174.8444459, latitude=-41.1343026, time=2013-05-11 21:54:05.0]
+, Location
+			 [longitude=174.8576856, latitude=-41.1344901, time=2013-05-11 22:38:41.0]
+, Location
+			 [longitude=174.8466968, latitude=-41.141036, time=2013-05-11 22:49:47.0]
+, Location
+			 [longitude=174.8576856, latitude=-41.1344901, time=2013-05-11 23:56:59.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle]]]], ]
+Trip [trip=[Path [date=2013-05-12 00:27:00.0, TripFinished=true, locations=[Location
+			 [longitude=174.8510054, latitude=-41.141864, time=2013-05-12 00:27:00.0]
+, Location
+			 [longitude=174.863866, latitude=-41.143226, time=2013-05-12 00:37:10.0]
+, Location
+			 [longitude=174.8576856, latitude=-41.1344901, time=2013-05-12 00:56:18.0]
+, Location
+			 [longitude=174.8443251, latitude=-41.1492378, time=2013-05-12 01:16:28.0]
+, Location
+			 [longitude=174.8466968, latitude=-41.141036, time=2013-05-12 01:26:35.0]
+, Location
+			 [longitude=174.8443285, latitude=-41.1492266, time=2013-05-12 01:39:45.0]
+, Location
+			 [longitude=174.8562138, latitude=-41.1363905, time=2013-05-12 01:50:54.0]
+, Location
+			 [longitude=174.8576856, latitude=-41.1344901, time=2013-05-12 02:59:02.0]
+, Location
+			 [longitude=174.8562138, latitude=-41.1363905, time=2013-05-12 03:13:09.0]
+, Location
+			 [longitude=174.8576957, latitude=-41.1344883, time=2013-05-12 03:59:34.0]
+, Location
+			 [longitude=174.8510054, latitude=-41.141864, time=2013-05-12 04:51:55.0]
+, Location
+			 [longitude=174.8576957, latitude=-41.1344883, time=2013-05-12 05:06:14.0]
+, Location
+			 [longitude=174.8443193, latitude=-41.1492545, time=2013-05-12 05:29:37.0]
+, Location
+			 [longitude=174.8466968, latitude=-41.141036, time=2013-05-12 05:39:40.0]
+, Location
+			 [longitude=174.8576943, latitude=-41.1344789, time=2013-05-12 05:51:48.0]
+, Location
+			 [longitude=174.8607601, latitude=-41.1388722, time=2013-05-12 14:48:20.0]
+, Location
+			 [longitude=174.8576957, latitude=-41.1344883, time=2013-05-12 15:49:51.0]
+, Location
+			 [longitude=174.8443193, latitude=-41.1492545, time=2013-05-12 16:32:56.0]
+, Location
+			 [longitude=174.7746538, latitude=-41.2856383, time=2013-05-12 16:44:22.0]
+, Location
+			 [longitude=174.7683721, latitude=-41.2873437, time=2013-05-12 16:55:14.0]
+, Location
+			 [longitude=174.7735166, latitude=-41.2964069, time=2013-05-12 18:09:25.0]
+, Location
+			 [longitude=174.7742707, latitude=-41.2984152, time=2013-05-12 18:21:41.0]
+, Location
+			 [longitude=174.7753082, latitude=-41.2987507, time=2013-05-12 18:32:30.0]
+, Location
+			 [longitude=174.7752149, latitude=-41.2961196, time=2013-05-12 18:44:26.0]
+, Location
+			 [longitude=174.7753979, latitude=-41.2952777, time=2013-05-12 19:06:27.0]
+, Location
+			 [longitude=174.8102941, latitude=-41.2199419, time=2013-05-12 19:17:57.0]
+, Location
+			 [longitude=174.8408715, latitude=-41.1314501, time=2013-05-12 19:30:45.0]
+, Location
+			 [longitude=174.8412784, latitude=-41.1317805, time=2013-05-12 19:42:46.0]
+, Location
+			 [longitude=174.8631222, latitude=-41.1422646, time=2013-05-12 19:53:44.0]
+, Location
+			 [longitude=174.8576957, latitude=-41.1344883, time=2013-05-12 20:05:56.0]
+, Location
+			 [longitude=174.8631209, latitude=-41.1422648, time=2013-05-12 20:47:38.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-13 01:22:53.0, TripFinished=true, locations=[Location
+			 [longitude=174.8576943, latitude=-41.1344789, time=2013-05-13 01:22:53.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-13 01:35:58.0]
+, Location
+			 [longitude=174.8576957, latitude=-41.1344883, time=2013-05-13 02:33:21.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-13 03:08:46.0]
+, Location
+			 [longitude=174.8510054, latitude=-41.141864, time=2013-05-13 03:36:41.0]
+, Location
+			 [longitude=174.857699, latitude=-41.1344926, time=2013-05-13 04:14:59.0]
+, Location
+			 [longitude=174.8466968, latitude=-41.141036, time=2013-05-13 04:42:49.0]
+, Location
+			 [longitude=174.8631217, latitude=-41.1422657, time=2013-05-13 04:53:36.0]
+, Location
+			 [longitude=174.8510054, latitude=-41.141864, time=2013-05-13 13:05:05.0]
+, Location
+			 [longitude=174.81056, latitude=-41.213938, time=2013-05-13 13:15:19.0]
+, Location
+			 [longitude=174.77403, latitude=-41.2831199, time=2013-05-13 13:25:22.0]
+, Location
+			 [longitude=174.8283085, latitude=-41.2383066, time=2013-05-13 14:26:27.0]
+, Location
+			 [longitude=174.7683721, latitude=-41.2873437, time=2013-05-13 15:00:55.0]
+, Location
+			 [longitude=174.7678803, latitude=-41.2893809, time=2013-05-13 15:31:09.0]
+, Location
+			 [longitude=174.7688561, latitude=-41.2890383, time=2013-05-13 16:07:17.0]
+, Location
+			 [longitude=174.7678803, latitude=-41.2893809, time=2013-05-13 16:20:37.0]
+, Location
+			 [longitude=174.7688561, latitude=-41.2890383, time=2013-05-13 16:31:22.0]
+, Location
+			 [longitude=174.768468, latitude=-41.2894651, time=2013-05-13 16:50:23.0]
+, Location
+			 [longitude=174.7678747, latitude=-41.2900409, time=2013-05-13 17:01:07.0]
+, Location
+			 [longitude=174.7848902, latitude=-41.2646556, time=2013-05-13 17:11:09.0]
+, Location
+			 [longitude=174.8317953, latitude=-41.1650212, time=2013-05-13 17:21:10.0]
+, Location
+			 [longitude=174.863121, latitude=-41.1422648, time=2013-05-13 17:32:22.0]
+, Location
+			 [longitude=174.8466968, latitude=-41.141036, time=2013-05-13 18:04:37.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-13 18:16:50.0]
+, Location
+			 [longitude=174.8443285, latitude=-41.1492266, time=2013-05-13 18:29:50.0]
+, Location
+			 [longitude=174.7745413, latitude=-41.2757057, time=2013-05-13 18:39:59.0]
+, Location
+			 [longitude=174.7682852, latitude=-41.289801, time=2013-05-13 18:50:59.0]
+, Location
+			 [longitude=174.7680834, latitude=-41.2881403, time=2013-05-13 20:03:15.0]
+, Location
+			 [longitude=174.810562, latitude=-41.2139318, time=2013-05-13 20:13:42.0]
+, Location
+			 [longitude=174.8509957, latitude=-41.1418786, time=2013-05-13 20:26:44.0]
+, Location
+			 [longitude=174.857689, latitude=-41.1344938, time=2013-05-13 20:38:44.0]
+, Location
+			 [longitude=174.8443021, latitude=-41.1492634, time=2013-05-13 21:15:18.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-13 21:35:21.0]
+, Location
+			 [longitude=174.8495476, latitude=-41.1434139, time=2013-05-13 22:20:38.0]
+, Location
+			 [longitude=174.8466968, latitude=-41.141036, time=2013-05-13 22:30:39.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-13 22:53:00.0]
+, Location
+			 [longitude=174.857689, latitude=-41.1344938, time=2013-05-13 23:18:51.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-13 23:37:19.0]
+, Location
+			 [longitude=174.8510054, latitude=-41.141864, time=2013-05-13 23:49:05.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-14 00:27:29.0, TripFinished=true, locations=[Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-14 00:27:29.0]
+, Location
+			 [longitude=174.857689, latitude=-41.1344938, time=2013-05-14 01:27:43.0]
+, Location
+			 [longitude=174.862729, latitude=-41.142239, time=2013-05-14 01:55:51.0]
+, Location
+			 [longitude=174.8576985, latitude=-41.1344972, time=2013-05-14 18:20:34.0]
+, Location
+			 [longitude=174.8118028, latitude=-41.2156206, time=2013-05-14 18:30:40.0]
+, Location
+			 [longitude=174.7678764, latitude=-41.2900487, time=2013-05-14 18:41:40.0]
+, Location
+			 [longitude=174.7734046, latitude=-41.2778374, time=2013-05-14 18:52:01.0]
+, Location
+			 [longitude=174.8395252, latitude=-41.1351532, time=2013-05-14 19:05:25.0]
+, Location
+			 [longitude=174.8395787, latitude=-41.1329311, time=2013-05-14 19:16:00.0]
+, Location
+			 [longitude=174.842637, latitude=-41.12791, time=2013-05-14 19:27:04.0]
+, Location
+			 [longitude=174.8576943, latitude=-41.1344789, time=2013-05-14 19:37:10.0]
+, Location
+			 [longitude=174.863125, latitude=-41.1422631, time=2013-05-14 19:48:16.0]
+, Location
+			 [longitude=174.8510054, latitude=-41.141864, time=2013-05-14 21:34:46.0]
+, Location
+			 [longitude=174.8631227, latitude=-41.1422643, time=2013-05-14 21:53:52.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-14 22:16:57.0]
+, Location
+			 [longitude=174.8576985, latitude=-41.1344972, time=2013-05-14 22:37:51.0]
+, Location
+			 [longitude=174.863125, latitude=-41.1422631, time=2013-05-14 22:48:43.0]
+, Location
+			 [longitude=174.8576985, latitude=-41.1344972, time=2013-05-14 23:05:29.0]
+, Location
+			 [longitude=174.8442876, latitude=-41.1492797, time=2013-05-14 23:32:51.0]
+, Location
+			 [longitude=174.8576985, latitude=-41.1344972, time=2013-05-14 23:49:39.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-15 00:19:06.0, TripFinished=true, locations=[Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 00:19:06.0]
+, Location
+			 [longitude=174.8576985, latitude=-41.1344972, time=2013-05-15 01:01:59.0]
+, Location
+			 [longitude=174.8631227, latitude=-41.1422646, time=2013-05-15 01:22:11.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 01:38:29.0]
+, Location
+			 [longitude=174.8631231, latitude=-41.1422643, time=2013-05-15 01:49:04.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 02:15:41.0]
+, Location
+			 [longitude=174.8576985, latitude=-41.1344972, time=2013-05-15 02:52:34.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 03:34:18.0]
+, Location
+			 [longitude=174.8510054, latitude=-41.141864, time=2013-05-15 03:57:13.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 04:09:47.0]
+, Location
+			 [longitude=174.8576985, latitude=-41.1344972, time=2013-05-15 04:59:57.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 05:33:03.0]
+, Location
+			 [longitude=174.8631231, latitude=-41.1422627, time=2013-05-15 05:50:51.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 06:02:54.0]
+, Location
+			 [longitude=174.8576985, latitude=-41.1344972, time=2013-05-15 06:20:56.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 06:35:16.0]
+, Location
+			 [longitude=174.863125, latitude=-41.1422631, time=2013-05-15 07:15:07.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 07:31:08.0]
+, Location
+			 [longitude=174.863125, latitude=-41.1422631, time=2013-05-15 07:51:07.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 08:02:08.0]
+, Location
+			 [longitude=174.863125, latitude=-41.1422631, time=2013-05-15 08:14:08.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 08:27:03.0]
+, Location
+			 [longitude=174.863125, latitude=-41.1422631, time=2013-05-15 08:43:04.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 08:55:10.0]
+, Location
+			 [longitude=174.863123, latitude=-41.1422639, time=2013-05-15 09:09:24.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 09:20:53.0]
+, Location
+			 [longitude=174.863125, latitude=-41.1422631, time=2013-05-15 09:31:53.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 09:43:53.0]
+, Location
+			 [longitude=174.863125, latitude=-41.1422631, time=2013-05-15 09:59:43.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 10:09:57.0]
+, Location
+			 [longitude=174.863125, latitude=-41.1422631, time=2013-05-15 10:24:52.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 10:35:52.0]
+, Location
+			 [longitude=174.863125, latitude=-41.1422631, time=2013-05-15 10:49:58.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 11:01:59.0]
+, Location
+			 [longitude=174.863125, latitude=-41.1422631, time=2013-05-15 11:12:59.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 11:24:59.0]
+, Location
+			 [longitude=174.8631227, latitude=-41.1422646, time=2013-05-15 11:44:19.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 12:18:07.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-15 12:33:04.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 12:48:27.0]
+, Location
+			 [longitude=174.8631227, latitude=-41.1422643, time=2013-05-15 12:58:59.0]
+, Location
+			 [longitude=174.8576985, latitude=-41.1344972, time=2013-05-15 13:14:00.0]
+, Location
+			 [longitude=174.8133483, latitude=-41.2116793, time=2013-05-15 13:24:09.0]
+, Location
+			 [longitude=174.7740621, latitude=-41.284674, time=2013-05-15 13:34:16.0]
+, Location
+			 [longitude=174.7683721, latitude=-41.2873437, time=2013-05-15 13:45:13.0]
+, Location
+			 [longitude=174.7687027, latitude=-41.2883897, time=2013-05-15 14:36:33.0]
+, Location
+			 [longitude=174.7680617, latitude=-41.2884114, time=2013-05-15 15:10:12.0]
+, Location
+			 [longitude=174.778339, latitude=-41.292801, time=2013-05-15 15:21:13.0]
+, Location
+			 [longitude=174.7805324, latitude=-41.2944811, time=2013-05-15 15:31:20.0]
+, Location
+			 [longitude=174.7682137, latitude=-41.2883609, time=2013-05-15 15:43:34.0]
+, Location
+			 [longitude=174.7681146, latitude=-41.289564, time=2013-05-15 16:55:59.0]
+, Location
+			 [longitude=174.7675114, latitude=-41.2957544, time=2013-05-15 17:19:37.0]
+, Location
+			 [longitude=174.7681146, latitude=-41.289564, time=2013-05-15 17:50:48.0]
+, Location
+			 [longitude=174.7764541, latitude=-41.2815182, time=2013-05-15 18:01:00.0]
+, Location
+			 [longitude=174.8317865, latitude=-41.1649847, time=2013-05-15 18:12:38.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 19:18:01.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-15 20:49:02.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 21:01:08.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-15 21:28:11.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 21:40:08.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-15 22:13:19.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 22:24:00.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-15 22:41:08.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 22:52:42.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-15 23:04:42.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 23:14:43.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-15 23:28:41.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-15 23:44:30.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-16 00:37:46.0, TripFinished=true, locations=[Location
+			 [longitude=174.8631227, latitude=-41.1422646, time=2013-05-16 00:37:46.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-16 00:48:34.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-16 00:59:35.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-16 01:09:41.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-16 01:24:29.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-16 01:35:55.0]
+, Location
+			 [longitude=174.8631228, latitude=-41.1422643, time=2013-05-16 01:47:55.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-16 01:58:30.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-16 02:12:32.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-16 02:24:32.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-16 02:37:59.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-16 02:51:00.0]
+, Location
+			 [longitude=174.8631229, latitude=-41.1422643, time=2013-05-16 03:11:29.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-16 12:03:32.0]
+, Location
+			 [longitude=174.8631229, latitude=-41.1422643, time=2013-05-16 13:11:40.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-16 13:25:40.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-16 13:35:56.0]
+, Location
+			 [longitude=174.8644863, latitude=-41.1409966, time=2013-05-16 13:57:57.0]
+, Location
+			 [longitude=174.8318023, latitude=-41.1649666, time=2013-05-16 14:08:50.0]
+, Location
+			 [longitude=174.7740197, latitude=-41.284868, time=2013-05-16 14:18:57.0]
+, Location
+			 [longitude=174.7751906, latitude=-41.2960961, time=2013-05-16 14:36:55.0]
+, Location
+			 [longitude=174.7763684, latitude=-41.296321, time=2013-05-16 14:48:40.0]
+, Location
+			 [longitude=174.7751989, latitude=-41.2961611, time=2013-05-16 15:08:01.0]
+, Location
+			 [longitude=174.7736329, latitude=-41.2964687, time=2013-05-16 16:40:04.0]
+, Location
+			 [longitude=174.7751593, latitude=-41.2961055, time=2013-05-16 16:57:19.0]
+, Location
+			 [longitude=174.7749619, latitude=-41.2947976, time=2013-05-16 17:12:33.0]
+, Location
+			 [longitude=174.7755986, latitude=-41.293445, time=2013-05-16 17:23:20.0]
+, Location
+			 [longitude=174.7753007, latitude=-41.294212, time=2013-05-16 17:53:28.0]
+, Location
+			 [longitude=174.7813504, latitude=-41.2686988, time=2013-05-16 18:03:46.0]
+, Location
+			 [longitude=174.8081307, latitude=-41.2216978, time=2013-05-16 18:14:41.0]
+, Location
+			 [longitude=174.8576989, latitude=-41.1344949, time=2013-05-16 18:28:50.0]
+, Location
+			 [longitude=174.8631229, latitude=-41.1422643, time=2013-05-16 19:18:48.0]
+, Location
+			 [longitude=174.8576989, latitude=-41.1344949, time=2013-05-16 20:03:36.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-16 20:18:05.0]
+, Location
+			 [longitude=174.8631228, latitude=-41.1422643, time=2013-05-16 20:28:52.0]
+, Location
+			 [longitude=174.8576989, latitude=-41.1344949, time=2013-05-16 21:18:11.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-16 21:31:44.0]
+, Location
+			 [longitude=174.8576989, latitude=-41.1344949, time=2013-05-16 21:53:38.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-16 22:22:23.0]
+, Location
+			 [longitude=174.8576989, latitude=-41.1344949, time=2013-05-16 22:45:25.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-16 23:08:50.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Vehicle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-17 00:19:02.0, TripFinished=true, locations=[Location
+			 [longitude=174.864336, latitude=-41.1403919, time=2013-05-17 00:19:02.0]
+, Location
+			 [longitude=174.8398933, latitude=-41.1333081, time=2013-05-17 00:50:59.0]
+, Location
+			 [longitude=174.8631206, latitude=-41.1422644, time=2013-05-17 01:03:47.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 01:19:07.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-17 01:39:23.0]
+, Location
+			 [longitude=174.8576989, latitude=-41.1344949, time=2013-05-17 02:19:40.0]
+, Location
+			 [longitude=174.8631227, latitude=-41.1422643, time=2013-05-17 02:30:00.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 02:40:41.0]
+, Location
+			 [longitude=174.8631226, latitude=-41.1422647, time=2013-05-17 02:54:36.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 03:24:41.0]
+, Location
+			 [longitude=174.8631229, latitude=-41.1422643, time=2013-05-17 03:35:28.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 04:12:36.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 05:13:25.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 05:25:25.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 05:37:25.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 05:49:11.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 06:18:01.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 06:28:23.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 06:47:24.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 07:00:24.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 07:20:27.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 07:33:27.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 07:47:27.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 07:57:36.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 08:11:55.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 08:22:43.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 08:41:44.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 08:52:48.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 09:05:49.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 09:16:21.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 09:27:21.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 09:37:25.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-17 09:57:30.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 10:12:31.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 10:26:31.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 10:37:32.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 10:48:29.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 10:59:30.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 11:10:37.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 11:22:37.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 11:35:37.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 11:49:45.0]
+, Location
+			 [longitude=174.8631229, latitude=-41.142265, time=2013-05-17 12:04:03.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 12:15:03.0]
+, Location
+			 [longitude=174.8631227, latitude=-41.1422646, time=2013-05-17 12:35:11.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 12:47:11.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-17 13:17:41.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 13:30:41.0]
+, Location
+			 [longitude=174.8631265, latitude=-41.1422641, time=2013-05-17 13:44:42.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 13:57:42.0]
+, Location
+			 [longitude=174.8631227, latitude=-41.1422643, time=2013-05-17 14:32:20.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 14:44:25.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-17 15:27:26.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 15:38:46.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-17 15:55:46.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 16:07:47.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-17 16:56:07.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 17:07:24.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-17 17:27:29.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 17:40:29.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-17 18:01:00.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 18:12:02.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-17 18:24:25.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 18:37:25.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-17 18:58:19.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 19:10:19.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 19:50:25.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 20:00:26.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-17 20:12:26.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 20:23:14.0]
+, Location
+			 [longitude=174.8631222, latitude=-41.1422635, time=2013-05-17 20:47:01.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 20:58:34.0]
+, Location
+			 [longitude=174.8631231, latitude=-41.1422627, time=2013-05-17 21:15:34.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 21:30:35.0]
+, Location
+			 [longitude=174.8631227, latitude=-41.1422643, time=2013-05-17 22:03:04.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 22:14:04.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-17 22:28:22.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 22:39:22.0]
+, Location
+			 [longitude=174.8631227, latitude=-41.1422643, time=2013-05-17 23:10:59.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 23:22:00.0]
+, Location
+			 [longitude=174.8576989, latitude=-41.1344949, time=2013-05-17 23:33:59.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-17 23:51:22.0]
+], Mode=[Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-18 00:06:04.0, TripFinished=true, locations=[Location
+			 [longitude=174.8631226, latitude=-41.1422647, time=2013-05-18 00:06:04.0]
+, Location
+			 [longitude=174.8510054, latitude=-41.141864, time=2013-05-18 00:30:45.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 00:55:45.0]
+, Location
+			 [longitude=174.8631229, latitude=-41.1422643, time=2013-05-18 01:10:21.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 01:24:21.0]
+, Location
+			 [longitude=174.863125, latitude=-41.1422631, time=2013-05-18 01:35:50.0]
+, Location
+			 [longitude=174.8576989, latitude=-41.1344949, time=2013-05-18 01:54:50.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 02:09:11.0]
+, Location
+			 [longitude=174.8631229, latitude=-41.1422643, time=2013-05-18 02:22:06.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 02:34:07.0]
+, Location
+			 [longitude=174.863123, latitude=-41.1422639, time=2013-05-18 02:51:09.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 03:06:17.0]
+, Location
+			 [longitude=174.863125, latitude=-41.1422631, time=2013-05-18 03:20:15.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 03:47:23.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-18 04:32:59.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 04:44:59.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-18 05:00:16.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 05:12:16.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-18 05:50:39.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 06:02:39.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-18 06:20:06.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 06:32:28.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-18 06:59:52.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 07:11:52.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-18 07:29:30.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 07:39:33.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-18 08:11:45.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 08:22:46.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-18 08:38:03.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 08:49:03.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-18 09:06:30.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 09:17:30.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-18 09:40:49.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 09:54:06.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-18 10:09:06.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 10:21:06.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-18 10:54:43.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 11:05:44.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-18 11:24:31.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 11:37:12.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-18 11:53:14.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 12:20:12.0]
+, Location
+			 [longitude=174.8576989, latitude=-41.1344949, time=2013-05-18 12:48:59.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 13:03:06.0]
+, Location
+			 [longitude=174.8631228, latitude=-41.1422646, time=2013-05-18 13:20:54.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 13:46:28.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-18 14:37:17.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 14:49:17.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-18 15:24:22.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 15:38:25.0]
+, Location
+			 [longitude=174.8631222, latitude=-41.1422635, time=2013-05-18 16:09:40.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 16:21:40.0]
+, Location
+			 [longitude=174.8631227, latitude=-41.1422643, time=2013-05-18 17:01:58.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 17:13:58.0]
+, Location
+			 [longitude=174.8631226, latitude=-41.1422647, time=2013-05-18 17:36:36.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 17:49:24.0]
+, Location
+			 [longitude=174.8631222, latitude=-41.1422635, time=2013-05-18 18:10:19.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 18:21:22.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-18 18:35:24.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 18:47:24.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-18 19:17:00.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 19:30:40.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-18 19:54:08.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 20:06:15.0]
+, Location
+			 [longitude=174.8631265, latitude=-41.1422641, time=2013-05-18 20:23:18.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 20:34:58.0]
+, Location
+			 [longitude=174.8631222, latitude=-41.1422635, time=2013-05-18 20:53:59.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 21:05:36.0]
+, Location
+			 [longitude=174.8631265, latitude=-41.1422641, time=2013-05-18 21:25:37.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 21:39:07.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-18 21:57:07.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 22:07:15.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-18 22:30:16.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 22:41:03.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-18 23:21:17.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 23:32:42.0]
+, Location
+			 [longitude=174.8631228, latitude=-41.1422646, time=2013-05-18 23:43:55.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-18 23:55:43.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
+Trip [trip=[Path [date=2013-05-19 00:14:00.0, TripFinished=false, locations=[Location
+			 [longitude=174.857794, latitude=-41.134687, time=2013-05-19 00:14:00.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 00:48:53.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-19 01:12:05.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 01:23:05.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-19 01:37:05.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 01:48:06.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-19 02:25:37.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 02:38:38.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-19 03:04:26.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 03:15:26.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-19 03:37:33.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 03:51:43.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-19 04:08:43.0]
+, Location
+			 [longitude=174.857794, latitude=-41.134687, time=2013-05-19 04:19:18.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 04:36:33.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-19 04:58:50.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 05:13:51.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-19 05:30:13.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 05:43:14.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-19 05:54:22.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 06:04:23.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-19 06:28:29.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 06:39:42.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-19 07:06:54.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 07:17:47.0]
+, Location
+			 [longitude=174.8631228, latitude=-41.1422646, time=2013-05-19 07:39:59.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 07:52:06.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-19 08:09:14.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 08:20:17.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-19 08:31:17.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 08:42:20.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-19 09:28:23.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 09:38:42.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-19 09:53:42.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 10:03:49.0]
+, Location
+			 [longitude=174.8631241, latitude=-41.1422654, time=2013-05-19 10:15:49.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 10:26:49.0]
+, Location
+			 [longitude=174.8631228, latitude=-41.1422646, time=2013-05-19 10:43:19.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 10:55:32.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-19 11:10:33.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 11:22:29.0]
+, Location
+			 [longitude=174.8631252, latitude=-41.1422628, time=2013-05-19 11:33:16.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 11:43:38.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-19 11:55:26.0]
+, Location
+			 [longitude=174.857794, latitude=-41.134687, time=2013-05-19 12:13:31.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 12:29:55.0]
+, Location
+			 [longitude=174.8631227, latitude=-41.1422643, time=2013-05-19 12:40:13.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 12:54:13.0]
+, Location
+			 [longitude=174.8631237, latitude=-41.1422653, time=2013-05-19 13:09:39.0]
+, Location
+			 [longitude=174.857794, latitude=-41.134687, time=2013-05-19 14:10:37.0]
+, Location
+			 [longitude=174.85779, latitude=-41.1434361, time=2013-05-19 14:26:37.0]
+, Location
+			 [longitude=174.8125606, latitude=-41.242024, time=2013-05-19 14:36:50.0]
+, Location
+			 [longitude=174.7684388, latitude=-41.2888273, time=2013-05-19 14:50:27.0]
+, Location
+			 [longitude=174.8092001, latitude=-41.2491707, time=2013-05-19 15:56:29.0]
+, Location
+			 [longitude=174.7678613, latitude=-41.2880746, time=2013-05-19 16:06:40.0]
+, Location
+			 [longitude=174.7683951, latitude=-41.2892725, time=2013-05-19 16:21:07.0]
+, Location
+			 [longitude=174.7678613, latitude=-41.2880746, time=2013-05-19 16:55:05.0]
+, Location
+			 [longitude=174.7750148, latitude=-41.2874592, time=2013-05-19 17:06:52.0]
+, Location
+			 [longitude=174.7685142, latitude=-41.2883504, time=2013-05-19 17:18:32.0]
+, Location
+			 [longitude=174.7683719, latitude=-41.2873271, time=2013-05-19 17:56:42.0]
+, Location
+			 [longitude=174.7678613, latitude=-41.2880746, time=2013-05-19 18:12:53.0]
+, Location
+			 [longitude=174.8305148, latitude=-41.1868624, time=2013-05-19 18:24:04.0]
+, Location
+			 [longitude=174.857794, latitude=-41.134687, time=2013-05-19 18:34:14.0]
+, Location
+			 [longitude=174.8514871, latitude=-41.1419707, time=2013-05-19 18:48:22.0]
+, Location
+			 [longitude=174.857794, latitude=-41.134687, time=2013-05-19 18:58:32.0]
+, Location
+			 [longitude=174.8633433, latitude=-41.1418454, time=2013-05-19 19:11:36.0]
+], Mode=[Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Foot], Transport [Type()=Vehicle], Transport [Type()=Bicycle], Transport [Type()=Foot], Transport [Type()=Foot]]]], ]
