@@ -18,8 +18,8 @@ EcoTrails:
     app and the server that the app was going to talk to. In the end this project didn't go much 
     fearther after the marks were handed out and so it has been left to sit in my back up file 
     system till restored here. The Classifier is very harsh and doesn't screen out outliers 
-    very well as i ran out of time and had to help the app team fix concurrincy issues. but 
-    it will give you a responce to data though it is not alswsy the best responce.
+    very well as i ran out of time and had to help the app team fix concurrincy issues. But 
+    it will give you a responce to data though it is not alsway the best responce.
 
  BusTimeTable:
     This was a assignment in another one of my NWEN projects i believe for the same course as 
